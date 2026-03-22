@@ -1,0 +1,16 @@
+# Binarios y datos — no van a GitHub
+*.xlsx
+*.csv
+*.pdf
+Reportes/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
