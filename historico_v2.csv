@@ -1,0 +1,465 @@
+Fecha,Dia,Vendedora,Punto_Venta,C_Pan_B,C_Pan_U,C_SalJumbo_P,C_SalJumbo_U,C_SalMini_P,C_Sodas,C_Lays,Consumo_Total,S_PanSF_B,S_PanSF_U,S_PanUN_U,S_SalJ_P,S_SalJ_U,S_SalM_P,S_Sodas,S_Lays,S_Alitas,S_Chunks,S_Flanes,T_Clasico,T_Chilidog,T_Chickedog,T_ComboClasico,T_ComboEsp,T_Soda,T_Lays,T_Alitas,HD_Ticketeados,Gastos_Total,Gastos_Detalle,Corte_Efectivo,Vuelto_Final,Efectivo_Enviado,Tiene_Datos_Finales
+16/12/2024,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,6,3,0,1,5,0,41,9,2,3,7,92,8,6,11,2,24,0,0,123,5.0,$4 pan y salchichas | $1.00 Javier,533.15,0.0,0.0,0
+17/12/2024,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,5,12,0,21,10,2,0,6,44,4,0,4,0,12,0,0,52,10.0,$10 de Javier,230.9,0.0,0.0,0
+17/12/2024,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,11,0,0,0,4,12,0,0,10,0,0,6,44,4,0,4,0,12,0,0,52,90.0,$10 Javier alcaldía | $50.00 Vilma | $30.00 bebidas,200.65,0.0,0.0,0
+18/12/2024,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,0,0,49,3,2,0,5,74,9,1,5,1,1,0,0,92,0.9,$0.90 de cervilletas,333.3,0.0,0.0,0
+18/12/2024,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,0,0,49,3,2,0,5,74,9,1,5,1,1,0,0,92,0.9,$0.90 de cervilletas,333.3,0.0,0.0,0
+19/12/2024,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,3,0,0,21,0,2,0,5,52,5,0,9,0,14,0,0,68,23.91,$13.56 de NANTLI INVERCIONES | $7.40 de súper el baratillo | $2.95 de factura (polipel y cervilletas),248.0,0.0,0.0,0
+20/12/2024,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,3,0,0,21,0,2,0,5,52,5,0,9,0,14,0,0,68,23.91,$13.56 de NANTLI INVERCIONES | $7.40 de súper el baratillo | $2.95 de factura (polipel y cervilletas),248.0,0.0,0.0,0
+20/12/2024,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,0,8,0,47,10,2,0,4,64,8,3,7,4,10,0,0,90,220.66,$12.15 de gas | $12.50 de cheddar | $11.76 de la despensa | $150 | $12 | $5.50,0,0.0,0.0,0
+21/12/2024,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,24,0,6,0,0,0,0,8,0,33,8,2,3,3,99,11,7,4,0,24,0,0,123,112.35,$5 de ketchup | $8 de pan y salchicha | $40 de compra de despensa | $6.75 Pizza | $2.60 Desechables | $50.00 Vilma,348.85,0.0,0.0,0
+22/12/2024,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,0,0,0,31,6,2,3,3,68,0,5,3,0,12,1,0,78,0.75,$0.75 de bolsa mini,351.45,0.0,0.0,0
+22/12/2024,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,2,0,28,5,2,3,3,68,2,5,3,1,12,1,0,81,75.75,$75.00 Vilma | $0.75 Bolsas mini,316.2,0.0,0.0,0
+23/12/2024,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,0,0,0,14,7,0,35,10,2,2,3,122,8,4,6,1,1,0,0,143,58.75,$15.00 sodas | $40.00 sodas | $3.75 Desechables,463.3,0.0,0.0,0
+24/12/2024,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,10,0,0,28,1,2,2,3,71,18,2,7,0,11,0,0,110,88.05,$12.15 de gas | $0.90 de cervilletas | $75 Vilma > aguinaldo,298.0,0.0,0.0,0
+26/12/2024,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,0,0,27,9,2,2,3,38,9,2,4,2,10,0,0,55,0.0,$0.00,213.25,0.0,0.0,0
+26/12/2024,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,5,3,0,21,6,2,2,3,38,9,2,4,0,10,0,0,53,0.0,$0.00,250.5,0.0,0.0,0
+28/12/2024,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,8,0,0,49,7,2,0,2,0,0,0,0,0,0,0,0,0,42.15,$30.00 bebidas y lays | $12.15 gas,241.1,0.0,0.0,0
+28/12/2024,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,7,0,31,1,2,0,1,74,5,4,4,1,8,0,0,92,46.5,$21.50 de Javier | $25 de súper selecto,290.9,0.0,0.0,0
+28/12/2024,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,4,0,53,15,2,0,1,74,5,4,4,1,8,0,0,92,46.5,$21.50 de Javier | $25 de súper selecto,302.65,0.0,0.0,0
+29/12/2024,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,2,4,0,43,9,2,2,1,69,8,1,9,0,10,0,0,99,22.0,$1.00 bolsas gabacha | $20.00 bebidas y lays | $1.00 viático,358.25,0.0,0.0,0
+31/12/2024,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,0,0,0,10,0,0,28,0,1,0,0,94,9,1,2,0,26,0,1,112,81.0,$80.00 acceso | $1 de aluminio,301.05,0.0,0.0,0
+31/12/2024,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,4,0,0,41,19,0,0,0,91,13,0,0,0,0,2,0,104,162.15,$30.00 sodas | $12.15 gas licuado | $120.00 Vilma,282.25,0.0,0.0,0
+31/12/2024,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,2,8,0,23,16,0,0,0,91,13,0,1,1,0,2,0,108,162.15,$30.00 sodas | $12.15 gas licuado | $120.00 Vilma,376.0,0.0,0.0,0
+02/01/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,4,14,0,18,7,1,1,5,54,20,0,7,0,0,0,0,85,13.55,$5.00 viaticos | $5.00 Desechables | $3.55 lays,325.0,0.0,0.0,0
+03/01/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,2,0,24,16,1,1,5,34,18,0,1,0,12,0,0,53,20.0,$20.00 sodas/lays,188.55,0.0,0.0,0
+06/01/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,10,12,0,43,3,1,1,5,63,8,0,8,0,13,0,0,79,0,,304.15,0.0,0.0,0
+06/01/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,0,8,0,35,4,0,0,5,63,8,0,8,0,13,0,0,79,0.0,$0.00,416.95,0.0,0.0,0
+08/01/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,3,0,41,7,0,0,5,55,6,0,3,0,13,0,0,64,80.0,$80 de Javier,187.7,0.0,0.0,0
+08/01/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,13,0,31,5,0,3,5,42,0,0,1,0,7,0,0,43,12.15,$12.15 de gas,158.1,0.0,0.0,0
+08/01/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,13,0,28,5,0,3,5,42,2,0,1,0,7,0,0,45,12.15,$12.15 de gas,177.6,0.0,0.0,0
+09/01/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,11,0,2,0,0,0,0,9,0,12,3,0,3,5,42,3,0,1,0,11,0,0,48,36.9,$1.90 de compras de aluminio y cervilletas | $10 de Javier | $25.00 gaseosas,135.7,0.0,0.0,0
+09/01/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,10,5,0,35,15,0,3,5,42,3,0,1,0,11,1,0,48,49.05,$1.90 Servilletas | $10.00 Javier | $25.00 gaseosas | $12.15 gas licuado,163.05,0.0,0.0,0
+10/01/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,0,0,18,12,0,3,5,39,8,0,2,0,12,0,0,51,22.47,$2.97 polipel | $14.50 gaseosas | $5.00 Javier,173.3,0.0,0.0,0
+10/01/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,0,0,41,12,0,3,5,39,8,0,2,0,12,0,0,51,22.47,$2.97 polipel | $14.50 gaseosas | $5.00 Javier,191.8,0.0,0.0,0
+11/01/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,15,13,0,15,13,0,0,4,65,8,1,6,1,11,1,0,85,49.35,$8.00 Javier | $1.35 de cervilletas | $40.00 sodas y lays,284.15,0.0,0.0,0
+11/01/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,7,0,0,0,15,4,0,36,13,0,3,4,65,8,1,6,1,11,1,0,85,49.35,$8.00 Javier | $1.35 servilletas | $40.00 sodas y lays,297.65,0.0,0.0,0
+12/01/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,12,5,0,46,0,0,1,9,33,7,0,1,0,8,0,0,43,5.3,$5.30 viáticos,176.6,0.0,0.0,0
+13/01/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.05,$12.15 queso cheddar | $0.90 servilletas,0,0.0,0.0,0
+13/01/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,12,7,0,15,10,0,3,3,67,20,3,8,0,10,1,0,98,13.4,$12.50 de queso cheddar | $0.90 de cervilletas,362.8,0.0,0.0,0
+14/01/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,12,13,0,6,11,0,3,3,33,7,4,4,0,4,2,0,48,2.6,"$2.60 de cervilletas ,bolsa y aluminio",184.35,0.0,0.0,0
+15/01/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,12,0,0,0,5,3,0,31,13,0,2,1,78,14,3,3,0,16,0,0,98,10.0,$10.00 Javier,352.15,0.0,0.0,0
+16/01/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,8,9,0,53,14,0,2,1,61,4,3,6,2,13,2,0,76,265.0,$40 de gastos de DP | $25.00 Vilma (antes $100 31/12 y $100 15/1),225.5,0.0,0.0,0
+17/01/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,25,0,4,0,0,0,1,10,0,14,15,0,3,1,82,9,1,9,3,25,0,0,104,4.5,"$4.50 de compra de cervilletas,bolsa mini,pajilla y aceite",348.45,0.0,0.0,0
+18/01/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76.5,$1.50 del Valles | $10.00 Javier | $65 compras,0,0.0,0.0,0
+18/01/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,21,2,2,0,0,0,14,3,0,38,11,0,3,6,85,12,2,9,6,21,2,0,114,76.5,$1.50 del Valles | $10.00 Javier | $65 compras,353.95,0.0,0.0,0
+18/01/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,21,2,3,0,0,0,13,0,0,28,8,0,3,6,85,12,2,9,6,21,2,0,114,76.5,$1.50 del Valles | $10.00 Javier | $65 compras,430.7,0.0,0.0,0
+19/01/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,0,0,0,0,17,5,0,55,15,0,3,6,39,9,4,6,1,13,0,0,59,0.0,$0.00,216.2,0.0,0.0,0
+20/01/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,10,8,0,45,12,0,2,5,71,8,2,12,0,14,1,0,95,12.15,$12.15 gas licuado,358.3,0.0,0.0,0
+20/01/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,10,8,0,45,12,0,2,5,71,8,2,12,0,14,1,0,95,12.15,$12.15 gas licuado,358.3,0.0,0.0,0
+20/01/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,10,0,0,37,10,3,1,5,71,8,2,12,0,14,1,0,95,12.7,$12.15 gas licuado | $0.55 viáticos,388.75,0.0,0.0,0
+21/01/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,13,4,0,19,19,3,0,5,57,4,1,2,1,2,0,0,69,26.75,$26.00 Javier | $0.75 de bolsa mini,236.15,0.0,0.0,0
+23/01/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,9,0,2,16,3,0,3,42,4,0,3,0,9,0,0,53,3.0,$3.00 de dólar City,230.95,0.0,0.0,0
+23/01/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,7,0,28,2,3,3,3,15,3,3,12,1,7,1,0,34,14.8,$1.65 aceite | $1.00 Javier | $12.15 gas licuado,313.35,0.0,0.0,0
+25/01/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,11,0,0,8,3,0,3,68,14,0,5,0,16,1,0,87,13.0,$13 de pan y salchichas,316.75,0.0,0.0,0
+25/01/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,8,6,0,37,18,3,3,3,64,11,5,1,0,8,1,0,81,13.8,$1.65 aceite | $12.15 gas licuado,294.95,0.0,0.0,0
+25/01/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,7,11,0,36,18,3,3,3,71,14,6,1,0,9,1,0,92,13.8,$1.65 aceite | $12.15 gas licuado,332.95,0.0,0.0,0
+26/01/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,13,8,0,22,16,3,2,3,21,4,2,1,1,12,0,0,29,5.0,$5.00 viaticos,160.45,0.0,0.0,0
+27/01/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,2,0,41,13,3,2,3,71,9,3,11,0,10,1,0,94,12.15,$12.15 de gas,348.3,0.0,0.0,0
+28/01/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,17,6,0,26,8,3,2,3,47,7,1,5,0,8,0,0,60,2.0,$2.00 desechables,200.3,0.0,0.0,0
+01/02/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,0,0,49,6,2,3,0,84,10,2,6,1,24,0,0,107,204.5,$12.50 queso cheddar | $2.00 Javier | $30.00 gaseosas | $160 Vilma,265.3,0.0,0.0,0
+02/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,10,15,0,31,12,2,2,0,47,7,0,6,0,7,0,0,62,2.53,$2.53 desechables y aceite,229.02,0.0,0.0,0
+05/02/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,9,12,0,13,3,0,4,6,41,5,3,4,0,9,2,2,57,29.01,$4.00 del pan | $20.00 Javier | $2.15 gas | $2.86 de selecto,206.3,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,11,3,0,0,10,3,1,3,49,5,1,11,0,11,0,0,68,0.0,$0,258.55,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,14,0,2,0,0,0,7,4,0,23,14,2,0,1,19,5,0,1,0,14,0,1,33,20.0,$20.00 de compras,253.3,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,0,0,0,15,11,0,41,4,2,1,0,60,5,1,11,1,7,0,0,86,12.15,$12.15 gas licuado,265.55,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,0,0,7,9,2,3,0,84,10,2,6,0,24,0,0,106,44.5,$12.50 queso cheddar | $2.00 Javier | $30.00 gaseosas,376.55,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,0,0,0,49,6,2,3,0,84,10,2,6,1,24,0,0,107,204.5,$12.50 queso cheddar | $2.00 Javier | $30.00 gaseosas | $160 Vilma,260.3,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,10,15,0,31,12,2,2,0,50,7,0,6,0,8,0,0,65,2.53,$2.53 desechables y aceite,235.02,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,8,10,0,60,18,2,0,0,0,0,0,0,0,0,0,0,0,57.53,$55 bebidas y lays | $2.53 desechables y aceite,310.5,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,10,0,0,55,19,2,0,0,0,0,0,0,0,0,0,0,0,70.0,$70.00 de acceso,346.9,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,13,14,0,29,4,2,0,0,0,0,0,0,0,0,0,0,0,0.0,$0 .00,263.9,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,9,12,0,13,3,0,4,6,41,5,3,4,0,9,2,2,57,29.01,$4.00 del pan | $20.00 Javier | $2.15 gas | $2.86 de selecto,206.3,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,14,2,0,43,12,0,4,5,50,2,2,5,0,6,0,0,59,50.0,$50.00 de sodas y lays,142.15,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,7,0,23,5,0,0,5,48,5,0,6,0,9,1,0,59,0,,235.25,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,8,0,0,0,10,6,0,35,11,0,0,5,68,10,0,5,0,12,0,0,83,32.86,$2.86 de ketchup | $30.00 gastos.,256.2,0.0,0.0,0
+09/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,16,2,0,24,6,0,4,4,21,6,0,4,0,4,0,0,35,0.0,$0.00,136.2,0.0,0.0,0
+12/02/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,12,3,0,8,0,0,4,4,45,6,0,6,1,4,0,0,58,0.0,$0.00,224.45,0.0,0.0,0
+12/02/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,11,12,0,55,13,0,4,4,0,0,0,0,0,0,0,0,0,30.0,$30.00 abonó 1 y 2.,223.7,0.0,0.0,0
+12/02/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,7,2,0,43,5,0,4,3,0,0,0,0,0,0,0,0,0,0.0,$0,229.25,0.0,0.0,0
+12/02/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,10,4,0,31,13,0,0,3,0,0,0,0,0,0,0,0,0,30.0,$30 de Vilma,194.8,0.0,0.0,0
+13/02/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,10,0,12,8,0,0,3,0,0,0,0,0,0,0,0,0,0.0,$ 0,197.3,0.0,0.0,0
+13/02/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,10,4,0,31,13,0,0,3,0,0,0,0,0,0,0,0,0,30.0,$30 de Vilma,194.8,0.0,0.0,0
+13/02/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,10,0,12,8,0,0,3,0,0,0,0,0,0,0,0,0,0.0,$ 0,197.3,0.0,0.0,0
+15/02/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,3,0,0,10,7,1,5,2,0,0,0,0,0,0,0,0,0,82.85,"$ 10.00 de lays | $12.15 gas licuado | $60.00 pago 3,4,5 y 6. | $0.70 de bolsa mini",98.25,0.0,0.0,0
+15/02/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,10,11,0,57,8,0,5,2,0,0,0,0,0,0,0,0,0,166.0,$1.00 flanes. | $60 salchichas y gaseosas. | $90 Vilma | $15.00 pagó 7,207.8,0.0,0.0,0
+16/02/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,7,10,0,43,9,1,4,2,25,7,3,2,1,10,2,3,40,1.0,$1.00 bolsas mini,202.2,0.0,0.0,0
+17/02/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,0,0,0,2,12,0,6,10,0,4,2,87,10,2,11,0,16,0,1,116,150.0,$150 Vilma,253.95,0.0,0.0,0
+18/02/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,14,13,0,52,0,4,3,2,38,1,0,9,0,2,1,0,54,58.9,$3.90 de sodas | $55 de sodas,144.8,0.0,0.0,0
+18/02/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,7,0,0,0,14,8,0,52,0,4,3,2,40,1,0,9,0,2,1,0,56,103.9,"$3.90 de sodas | $55 de sodas | $45 pagó 8, 9 y 10.",104.8,0.0,0.0,0
+19/02/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,7,0,0,0,11,8,0,40,0,4,2,2,30,2,0,0,1,5,0,0,35,7.15,$7.15 gas licuado,146.15,0.0,0.0,0
+20/02/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,19,0,0,26,16,2,0,2,63,9,0,0,0,10,0,0,74,75.0,$75.00 de acceso,189.45,0.0,0.0,0
+21/02/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,13,0,0,20,2,2,0,0,72,1,1,8,0,10,0,0,86,0.0,$0.00,308.15,0.0,0.0,0
+21/02/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,7,0,0,0,12,0,0,41,15,2,0,0,72,1,1,8,0,10,0,0,86,65.0,"$45 Pagó 11, 12 y 13 | $20.00 Vilma",262.15,0.0,0.0,0
+22/02/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,15,0,0,27,9,4,0,0,63,5,2,2,0,4,1,0,72,2.07,$2.07 de súper selecto,282.48,0.0,0.0,0
+22/02/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,14,7,0,22,6,4,4,4,63,5,2,2,0,4,1,0,72,77.07,"$2.07 de súper selecto | $30.00 cuota 14 y 15 (sab-dom) | $45.00 bebidas, lays y flan",281.23,0.0,0.0,0
+24/02/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,7,21,0,10,5,4,4,3,61,7,3,12,0,21,0,0,87,26.25,$12.50 de queso cheddar | $12.15 de gas | $1.60 de bolsa y servilletas,338.3,0.0,0.0,0
+25/02/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,12,3,0,21,6,3,2,1,47,6,2,0,0,7,0,0,57,6.0,$4.00 | $2.00 de bolsa y servilletas,218.85,0.0,0.0,0
+27/02/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,12,3,0,21,6,3,2,1,47,6,2,0,0,7,0,0,57,36.0,$4.00 | $2.00 de bolsa y servilletas | $30.00 Vilma,188.85,0.0,0.0,0
+27/02/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,8,7,0,5,4,3,1,5,33,7,2,7,0,1,1,0,53,8.57,"$5.22 de súper | $3.35 de bolsa ,servilletas y polípel",195.5,0.0,0.0,0
+27/02/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,13,1,0,43,18,2,0,5,14,3,0,5,2,4,0,1,24,77.0,"$17.00 sodas y lays. | $60.00 cuota 16,17,18 y 19",115.55,0.0,0.0,0
+05/03/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,8,10,0,27,12,2,0,5,51,3,0,5,1,6,0,0,60,1.3,$1.30 de servilletas y pajitas,230.8,0.0,0.0,0
+05/03/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,7,0,0,0,2,4,0,0,4,2,0,5,134,3,0,4,2,18,0,0,147,168.05,$0.90 de servilletas | $12.15 de gas | $5 de Javier | $150 Vilma,301.5,0.0,0.0,0
+05/03/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,2,15,0,26,12,2,0,5,74,10,0,13,0,7,0,0,99,21.88,"$3.35 de servilletas ,polipel y  bolsa | $18.53 de súper gaseosas y jugos",355.77,0.0,0.0,0
+05/03/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,3,6,0,10,8,2,0,4,53,2,0,3,1,11,0,0,63,0.0,$0,244.85,0.0,0.0,0
+05/03/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,12,0,58,11,2,0,4,43,5,0,4,0,7,0,0,52,17.35,$14.90 de soda | $2.45 desechables,221.5,0.0,0.0,0
+07/03/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,0,0,0,6,11,0,41,3,1,0,4,20,4,0,8,0,7,0,1,32,0.65,$0.65 de gas,185.6,0.0,0.0,0
+07/03/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,3,0,28,9,1,0,4,41,8,0,7,0,0,0,0,56,42.0,"$40.00 pan y salchicha | $2.00 de bolsa,pajilla y servilletas",181.1,0.0,0.0,0
+08/03/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,4,0,37,15,0,0,4,51,3,0,5,0,13,0,1,63,20.0,$20.00,252.6,0.0,0.0,0
+10/03/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,4,0,33,7,3,0,3,73,7,0,7,0,17,0,0,87,23.8,$20.00 sodas | $3.80 de factura,303.7,0.0,0.0,0
+11/03/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,10,4,0,22,0,3,0,3,30,3,0,4,1,2,0,0,38,32.2,$30.00 de Vilma | $2.20 de factura,124.7,0.0,0.0,0
+13/03/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,14,0,15,5,3,0,3,58,3,0,0,0,6,2,0,61,13.05,$12.15 de gas | $0.90 de servilletas,212.4,0.0,0.0,0
+13/03/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,10,14,0,5,0,3,0,3,35,5,0,5,0,6,0,0,45,0.0,$0.00,158.85,0.0,0.0,0
+14/03/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,0,0,0,14,4,0,35,6,3,0,3,40,7,0,6,2,7,0,0,55,0.0,$0.00,222.3,0.0,0.0,0
+15/03/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,11,6,0,50,7,3,0,3,76,5,0,8,2,23,0,0,91,20.0,$20.00 de sodas,341.5,0.0,0.0,0
+16/03/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,7,0,0,34,2,3,0,3,50,1,0,4,0,10,1,0,55,115.78,$0.78 de cervilletas | $115 a Vilma,101.47,0.0,0.0,0
+17/03/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,8,0,0,10,3,0,1,94,9,0,9,0,10,0,0,116,20.25,$12.15 de gas | $8.10 de lays,394.0,0.0,0.0,0
+18/03/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,2,8,0,20,4,3,0,1,50,1,0,4,0,6,0,0,59,19.0,$4.00 de gas | $15 de bebidas,180.55,0.0,0.0,0
+19/03/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,10,8,0,24,9,3,0,7,47,0,0,7,0,9,0,0,54,15.9,$1.00 de Javier | $14.90 de sodas,178.25,0.0,0.0,0
+20/03/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,4,9,0,4,3,3,0,7,71,0,0,5,0,14,0,0,76,4.61,$3.71 de selecto | $0.90 de factura,288.25,0.0,0.0,0
+21/03/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,5,0,44,20,2,0,7,28,4,0,2,2,8,0,1,36,24.65,$12.15 de gas | $12.50 de cheddar,168.85,0.0,0.0,0
+22/03/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,11,3,0,50,18,1,0,6,82,1,0,1,0,11,0,0,86,16.5,$16.50 de gas,285.5,0.0,0.0,0
+24/03/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,13,10,0,38,12,1,0,6,56,8,0,5,0,5,0,0,69,10.0,$ 10 de Vilma (de vuelto de sábado ),280.05,0.0,0.0,0
+27/03/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,10,2,0,64,17,1,0,5,40,11,0,1,0,5,1,0,52,20.0,$ 20 de súper selecto,173.05,0.0,0.0,0
+27/03/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,3,0,47,15,1,0,5,47,4,0,0,0,15,1,0,51,54.3,$ 20 de Vilma | $10 de acceso | $24.30 de gas,149.25,0.0,0.0,0
+28/03/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,10,6,0,30,12,1,0,5,39,19,0,3,0,10,0,0,61,20.0,$ 20 de Javier,155.5,0.0,0.0,0
+28/03/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,8,0,41,9,1,0,5,51,4,0,3,0,4,0,0,58,16.63,$ 14.90 de sodas | $1.73 de mayonesa,214.7,0.0,0.0,0
+28/03/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,13,8,0,41,9,1,0,5,51,4,0,3,0,4,0,0,58,16.63,$ 14.90 de sodas | $1.73 de mayonesa,214.7,0.0,0.0,0
+29/03/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,7,4,0,34,21,4,0,5,90,3,0,5,0,16,0,0,100,13.0,$13.00 jugos y lays,335.95,0.0,0.0,0
+31/03/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,5,0,28,2,4,0,5,95,3,0,12,0,10,1,0,112,9.25,$9.25 de pan,437.75,0.0,0.0,0
+01/04/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,1,9,0,14,19,4,0,5,51,5,0,2,0,10,0,0,58,132.15,$12.15 de gas | $120 de Vilma,104.1,0.0,0.0,0
+02/04/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,6,1,0,24,17,4,0,5,41,1,0,2,0,9,0,0,44,15.0,$15 de sodas,175.35,0.0,0.0,0
+07/04/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,8,0,0,0,8,13,0,28,16,4,0,3,59,4,0,5,1,7,0,0,69,20.0,$20 de Javier,235.15,0.0,0.0,0
+07/04/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,0,0,0,9,5,0,7,6,4,0,3,48,6,0,2,0,11,2,0,56,0.0,$0,251.65,0.0,0.0,0
+07/04/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,4,7,0,37,21,4,0,3,45,3,0,6,0,7,0,0,54,0.0,$0,236.45,0.0,0.0,0
+07/04/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,8,3,0,22,12,3,0,1,46,4,0,8,0,2,0,1,58,45.0,$40 desechables | $5 de Javier,188.5,0.0,0.0,0
+08/04/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,13,6,0,42,11,3,0,1,35,2,0,0,0,0,0,0,37,42.15,$12.15 de gas | $30 de acceso,122.65,0.0,0.0,0
+09/04/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,9,0,28,6,3,0,7,40,4,0,5,0,6,0,0,49,12.15,$12.15 de cheddar,171.15,0.0,0.0,0
+10/04/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,13,15,0,20,6,3,0,7,17,3,0,0,0,3,0,0,20,0.0,$0,155.15,0.0,0.0,0
+11/04/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,15,0,34,4,3,0,7,37,10,0,7,0,1,0,0,54,1.8,$1.80 de aceite,196.1,0.0,0.0,0
+12/04/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,13,12,0,41,13,2,0,6,46,6,0,4,2,8,0,0,60,62.15,$12.15 de gas | $50 de Vilma,173.1,0.0,0.0,0
+14/04/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,8,11,0,18,1,2,0,6,54,5,0,9,1,6,0,0,69,0.0,$0,258.8,0.0,0.0,0
+16/04/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,6,5,0,24,3,0,0,5,59,6,0,4,1,12,1,1,72,17.8,$17.80 de sodas y lays,311.2,0.0,0.0,0
+17/04/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,8,1,0,32,19,3,0,5,64,4,0,3,0,7,0,0,71,153.15,$75 de Javier | $1.35 de servilletas | $6.80 de lays | $70 de Vilma,98.15,0.0,0.0,0
+19/04/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,11,14,0,53,21,3,3,3,56,0,2,3,0,3,0,0,61,10.0,$10.00 gas licuado,269.3,0.0,0.0,0
+22/04/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,8,0,0,22,10,3,3,3,58,8,0,10,0,15,0,0,76,1.5,$1.50 de Javier,335.25,0.0,0.0,0
+22/04/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,5,0,39,12,2,2,3,32,2,2,2,0,4,0,0,38,1.0,$1 de mayonesa,113.45,0.0,0.0,0
+24/04/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,4,1,0,24,9,2,2,3,33,3,0,1,0,9,0,0,39,24.0,$24 de pan,102.55,0.0,0.0,0
+24/04/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,4,6,0,14,25,2,2,2,38,1,0,2,0,4,2,0,41,25.0,$10 de lays | $15 de la niña yoly,165.3,0.0,0.0,0
+26/04/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,5,14,0,19,14,2,2,2,50,8,0,9,0,8,0,0,67,97.85,$80 a Javier | $2.85 de súper (pan) | $15 de la niña yoly,90.3,0.0,0.0,0
+26/04/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,6,15,0,52,8,2,2,1,38,6,0,4,0,9,0,0,50,40.0,$25 Vilma | $15 de la niña yoly,85.45,0.0,0.0,0
+27/04/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,0,0,0,0,14,3,0,44,7,2,2,1,11,11,3,1,0,7,0,0,26,2.0,$2.00 servilletas,96.7,0.0,0.0,0
+28/04/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,8,9,0,18,1,2,2,1,58,6,0,11,0,11,1,0,75,80.7,$50 de Javier | $0.70 de bolsa mini | $30 de niña yoly,111.65,0.0,0.0,0
+29/04/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,6,0,0,13,0,2,2,1,22,3,1,0,0,3,0,0,28,10.6,$10.00 Acceso | $0.60 Javier,72.15,0.0,0.0,0
+30/04/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,10,0,0,25,10,1,2,1,54,1,1,4,0,5,1,1,60,59.45,$25.80 de gaseosas | $3.65 de gas | $30 de niña yoly,98.2,0.0,0.0,0
+30/04/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,10,0,0,25,10,1,2,1,54,1,1,4,0,5,1,1,60,84.45,$25.80 de gaseosas | $28.65 de gas | $30 de niña yoly,98.2,0.0,0.0,0
+01/05/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,7,0,0,16,5,0,2,1,24,0,1,4,1,4,0,0,30,20.5,$12.50 de cheddar | $8.00 desechables y aceite,32.45,0.0,0.0,0
+02/05/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,2,4,0,23,14,0,2,1,59,7,0,4,0,8,0,0,72,45.5,$15.00 de Javier | $30.00 de acceso | $0.50 de franelas,125.1,0.0,0.0,0
+03/05/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,4,2,0,25,3,2,2,1,57,7,0,10,0,9,0,0,76,261.75,$4.75 desechables | $2.00 de acceso | $75 Vilma ($110 total) | $30 de bebidas | $40 de niña yoly 1 y 2,24.35,0.0,0.0,0
+05/05/2025,Monday,Vilma Luna,Parque San Martin,3,0,6,0,0,24,14,3,0,0,0,3,10,0,29,1,2,2,0,40,11,0,9,2,5,0,0,66,75.75,$3.00 compras | $3.00 compras | $12.15 de gas | $17.60 de sodas | $40 de niña yoly,131.7,0.0,0.0,0
+06/05/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,4,0,12,5,2,1,0,20,0,0,4,2,4,0,0,30,65.15,$3.15 desechables | $7.00 de lays | $55 de acceso,36.3,0.0,0.0,0
+07/05/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,5,1,2,0,0,0,4,6,0,24,18,2,0,0,31,3,0,7,0,5,1,0,41,35.0,$35.00 de compras,76.1,0.0,0.0,0
+08/05/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,2,6,0,17,16,2,0,0,23,1,0,2,0,4,0,0,26,1.15,$1.15 de desechables,132.85,0.0,0.0,0
+10/05/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,4,4,0,31,9,1,0,0,46,5,0,7,0,4,0,1,58,108.64,$5.35 de desechables | $14.29 de súper | $24 de salchichas | $40.00 de niña yoly | $25. 00 de Vilma,37.25,0.0,0.0,0
+10/05/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,8,8,0,40,5,1,0,0,47,0,0,4,0,8,0,0,51,50.0,$30.00 de gas y bebidas | $20.00  de niña yoly,90.15,0.0,0.0,0
+12/05/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,2,0,0,15,20,1,0,0,59,6,0,6,0,12,0,0,71,149.75,$70.00 Javier | $9.75 de aceite y desechables | $40.00 de niña yoly | $30.00 de Vilma,68.4,0.0,0.0,0
+13/05/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,13,0,20,14,1,0,0,46,3,0,4,0,13,0,0,53,115.3,$45 pan y salchicha | $5.00 desechables | $30  acceso | $20 de niña yoly | $15.30 de gaseosa,37.95,0.0,0.0,0
+14/05/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,4,1,0,21,7,3,2,0,52,4,0,9,0,11,0,0,65,84.8,$8.50 aceite | $1.80 aceite | $40.00 acceso | $20.00 Doña Yolanda | $14.50 gaseosas,80.5,0.0,0.0,0
+15/05/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,2,7,0,25,9,2,2,0,50,7,0,4,0,13,0,0,61,106.0,$21.00 de sodas | $45 de  salchichas | $20 de niña yoly | $20 de Vilma,96.95,0.0,0.0,0
+16/05/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,9,0,48,19,2,2,0,44,6,0,8,2,9,0,0,60,102.3,$24.30 de gas | $45 de  sodas | $13.00 de aderezo | $20 a niña Yolanda,86.35,0.0,0.0,0
+17/05/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,2,13,0,16,7,2,1,0,74,6,0,9,2,13,0,0,91,203.78,$60.00 de gastos | $3.78 de selecto | $20 de niña yoly | $120 de Vilma,58.75,0.0,0.0,0
+19/05/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,13,0,13,13,2,2,0,63,7,0,9,0,13,0,0,79,121.65,$65.00 de acceso | $2.86 de selecto | $22.04 despensa | $1.75 de polipel | $10.00 de Javier | $20 de niña yoly,64.2,0.0,0.0,0
+21/05/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,13,0,13,18,2,2,0,38,7,0,9,0,9,1,0,54,111.97,$54.00 pan y salchicha | $17.97 sodas y lays | $40 de niña yoly,24.5,0.0,0.0,0
+21/05/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,7,0,0,19,10,1,2,0,47,6,0,2,0,10,0,1,65,42.55,$ 5.40chunks | $12.15 gas | $5.00 sodas | $20 de niña yoly,119.35,0.0,0.0,0
+22/05/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,3,10,0,10,9,1,2,0,44,0,0,0,0,7,0,0,44,25.0,$5.00 de pan | $20 de niña yoly,88.35,0.0,0.0,0
+23/05/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,11,10,0,9,5,1,2,0,46,0,0,2,0,16,0,0,48,35.89,$0.90 de servilletas | $14.99 de sodas | $20 de niña yoly,97.9,0.0,0.0,0
+24/05/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,4,8,0,37,20,1,0,3,80,6,0,4,0,10,0,0,90,162.0,$85.00 de sodas y salchicha | $7.00 para vuelto | $20 de niña yoly | $50 de Vilma,55.25,0.0,0.0,0
+26/05/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,4,3,0,8,8,1,1,3,51,6,0,9,0,12,0,0,68,122.0,$7.00 de pan | $50 de acceso | $60 de Javier | $5 .00 de mayonesa,68.0,0.0,0.0,0
+27/05/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,16,2,0,20,12,1,1,3,23,4,0,5,0,6,0,0,32,84.49,$19.50 de chunks | $14.99 de sodas | $30 Javier | $20 Doña Yolanda #1,23.5,0.0,0.0,0
+28/05/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,12,1,0,11,8,1,1,3,36,5,0,2,0,4,0,0,47,20.0,$20 Doña Yolanda #2,106.65,0.0,0.0,0
+30/05/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,3,0,21,17,1,1,3,33,4,0,3,0,7,0,0,40,42.39,$20.39 de sodas y lays | $2.00 de hielo | $20 Doña Yolanda #3,170.15,0.0,0.0,0
+30/05/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,4,5,0,27,13,1,2,3,55,7,0,1,1,10,0,0,68,47.85,$15 sodas | $12.15 gas | $0.70 de bolsa | $20 Doña Yolanda #4,117.2,0.0,0.0,0
+31/05/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,8,9,0,46,12,1,2,3,71,7,0,7,0,14,2,0,87,126.0,"$106 sodas, salchichas y lays | $20 Doña Yolanda #5",127.95,0.0,0.0,0
+01/06/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,4,14,0,56,17,1,2,3,43,3,0,6,1,5,0,0,57,23.0,$20.00 doña Yolanda | $3.00 Javier,149.6,0.0,0.0,0
+02/06/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,3,0,0,40,12,1,1,2,56,10,0,1,2,9,0,0,69,100.0,$80.00 acceso | $20.00 doña Yolanda,120.15,0.0,0.0,0
+03/06/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,3,0,25,5,1,1,2,35,3,0,1,0,6,0,0,43,82.0,$52 .00 de pan y salchicha | $20.00 doña Yolanda #8 | $10 de Vilma,35.65,0.0,0.0,0
+04/06/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,8,3,0,12,10,1,3,2,35,3,0,7,0,1,0,0,45,96.8,$6.80 de lays | $70  de mercado de Javier | $20.00 doña Yolanda #9,25.6,0.0,0.0,0
+05/06/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,2,13,0,19,17,1,3,2,27,4,0,8,1,0,0,0,44,87.15,"$55.00 sodas, lays y pan. | $12.15 de gas | $20 de niña yoly #10",50.7,0.0,0.0,0
+06/06/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,9,0,22,9,0,3,2,32,0,0,5,0,0,0,0,37,76.8,$55.00 sodas y salchicha | $1.80 de aceite | $20 de niña yoly #11,48.15,0.0,0.0,0
+07/06/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,3,9,0,37,25,0,3,2,56,0,0,2,2,0,0,0,62,167.0,"$80.00 sodas , lays y desechables | $2.00 de chunks | $20 de niña yoly #12 | $65.00 de Vilma",20.75,0.0,0.0,0
+08/06/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,3,12,0,17,18,0,3,2,52,0,9,5,2,11,0,0,68,0.25,$0.25 Javier,141.0,0.0,0.0,0
+09/06/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,2,13,0,11,4,0,3,2,39,5,5,8,2,15,0,0,59,63.29,$40 de acceso | $14.99 de sodas | $7.85 de salchichas | $0.45 de servilletas,146.0,0.0,0.0,0
+11/06/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,13,0,21,0,0,3,2,46,6,0,1,0,9,1,0,53,128.04,$40 de acceso | $12.15 de gas | $14.99 de sodas | $0.90 de servilletas | $60 de niña yoly,14.95,0.0,0.0,0
+11/06/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,3,5,0,14,19,0,3,2,29,4,0,1,0,6,1,0,34,71.95,$2.50 de cheddar | $9.45 de lays | $60 de niña yoly #16,52.5,0.0,0.0,0
+12/06/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,3,5,0,14,19,0,3,2,29,4,0,1,0,6,1,0,34,62.5,$2.50 de cheddar | $60 de niña yoly #16,52.5,0.0,0.0,0
+13/06/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,2,15,0,27,14,2,3,2,37,2,0,4,1,4,0,0,44,85.0,$30.00 de sodas | $35 de Vilma | $20 de niña yoly #17,11.2,0.0,0.0,0
+13/06/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,13,0,18,11,2,3,2,36,4,0,3,0,4,0,0,43,88.0,$68.00 de salchicha y pan | $20 de niña yoly #18,30.7,0.0,0.0,0
+20/06/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,14,0,2,0,0,0,9,7,0,23,17,2,2,2,59,15,0,6,3,14,0,0,83,219.7,$10 de Javier | $9.70 desechables | $50.00 compras | $60 ERIK | $20.00 Yolanda #19 | $ 70 Vilma,29.5,0.0,0.0,0
+20/06/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,1,7,0,23,11,1,2,2,78,16,0,4,0,14,0,2,98,104.13,$11.98 de Sodas | $12.15 de gas | $40.00 de acceso | $40.00 Yolanda #21,130.1,0.0,0.0,0
+20/06/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,12,0,30,5,1,2,2,39,5,0,3,2,9,0,0,53,119.9,$20.00 pan | $14.00 sodas | $0.90 de servilletas | $65.00 salchichas y papas | $20.00 Yolanda #22,60.35,0.0,0.0,0
+20/06/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,4,0,12,14,0,2,1,40,8,0,2,2,8,0,0,54,102.54,$30.00 mercado | $45.00 acceso | $7.54 de lays y aceite | $20.00 Yolanda #23,77.8,0.0,0.0,0
+20/06/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,7,12,0,33,6,0,2,1,42,6,0,5,2,4,0,0,57,79.15,$8.65 de gas | $0.50 de servilletas | $70.00 salchicha y soda,82.8,0.0,0.0,0
+20/06/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,3,12,0,11,15,2,1,1,39,5,0,1,1,17,0,1,50,42.95,$36.15 aceite | $6.80 de lays,111.35,0.0,0.0,0
+21/06/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,2,4,0,20,4,2,1,0,68,0,0,7,0,11,0,0,79,20.3,$2.55 de aceite y lija | $15.30 de sodas | $2.45 de polipel y bolsas,199.65,0.0,0.0,0
+24/06/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,12,0,7,0,2,1,0,65,5,0,19,3,9,0,0,94,102.15,$5.00 sodas | $7.15 desechables | $90 de  acceso y Javier,120.15,0.0,0.0,0
+25/06/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,10,8,0,29,14,2,1,0,27,5,0,2,0,7,0,0,42,47.3,$20.00 sodas | $9.00 lays | $14 Alitas | $1.40 Pan | $2.90 Lays,88.2,0.0,0.0,0
+25/06/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,15,7,0,21,10,2,1,0,31,5,0,2,0,4,0,0,38,37.15,$2.15 de gas | $35.00 de Vilma,67.3,0.0,0.0,0
+26/06/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,13,2,0,12,7,2,1,0,20,6,0,2,0,5,1,0,28,0,,87.05,0.0,0.0,0
+28/06/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,9,4,0,45,3,2,1,0,40,3,0,2,0,7,0,0,45,61.0,$1.00 pan | $60.00 doña Yolanda,69.95,0.0,0.0,0
+28/06/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,11,0,0,0,9,14,0,43,7,0,0,0,50,20,0,12,0,8,0,0,86,105.0,$25.00 sodas | $80.00 pagó fosofamilia,113.7,0.0,0.0,0
+29/06/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,8,0,0,0,9,6,0,47,19,0,0,0,44,13,0,1,0,11,0,0,64,120.0,$10.00 lays | $90.00 fosofamilia | $20.00 Yolanda,41.65,0.0,0.0,0
+30/06/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,1,10,0,3,7,0,0,0,78,13,0,5,0,22,0,0,96,75.0,$30 de javier | $32.50 de chunks | $12.50 de cheddar,180.4,0.0,0.0,0
+02/07/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,4,0,44,9,2,2,0,56,10,0,6,0,3,1,0,72,161.0,$6.00 pan | $30.00 acceso | $125 de Vilma,17.65,0.0,0.0,0
+02/07/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,13,3,0,31,18,2,2,0,43,7,0,3,0,8,1,0,53,104.95,"$20.00 mercado | $4.95 de desechables | $80 .00 # 5, 6, 7, 8",25.65,0.0,0.0,0
+03/07/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,9,1,0,7,8,2,2,0,39,5,0,7,0,10,0,0,55,38.0,$38.00 BAC,116.35,0.0,0.0,0
+05/07/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,4,6,0,20,5,2,2,0,41,7,0,3,0,5,0,0,51,54.8,"$12.15 de gas | $2.65 desechables | $40.00 de niña yoly #9,10",80.1,0.0,0.0,0
+05/07/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,7,8,0,24,2,2,2,0,48,9,0,2,0,11,0,0,59,35.3,$15.30 de sodas | $20.00 de niña yoly #11,167.2,0.0,0.0,0
+06/07/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,0,0,0,0,6,3,0,16,0,2,1,0,8,6,0,1,0,6,0,0,17,2.0,$2.00 pan,80.45,0.0,0.0,0
+07/07/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,7,0,0,0,5,10,0,25,25,1,1,0,76,12,0,13,0,20,0,1,103,222.9,$40.30 sodas | $10.25 desechables | $21.35 lays | $100 pan y salchicha | $10.00 acceso | $1.00 papas,98.6,0.0,0.0,0
+08/07/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,7,2,0,12,11,1,1,0,44,6,0,7,0,8,0,0,57,116.15,$8.00 mercado | $30 pan | $60.00 acceso | $6.00 sodas | $12.15 gas,74.7,0.0,0.0,0
+09/07/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,10,6,0,22,7,2,2,0,32,7,0,4,0,10,0,0,43,59.95,$15.30 sodas | $2.15 gas | $2.50 dolar City | $40.00 de niña Yolanda #14,41.25,0.0,0.0,0
+10/07/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,0,0,0,5,8,0,24,17,2,2,0,49,6,0,0,2,14,0,0,61,104.1,$27.00 sodas y lays | $4.95 desechables | $12.15 de gas | $40.00 de Vilma | $20 de niña Yolanda #15,62.6,0.0,0.0,0
+11/07/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,1,6,0,26,10,2,2,0,45,8,0,5,0,9,0,0,60,50.0,$15.00 de pan | $15.00 de sodas | $20 de niña Yolanda #16,75.85,0.0,0.0,0
+12/07/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,14,0,60,26,2,2,0,77,10,0,4,0,13,0,0,91,92.1,$40.00 bebidas y lays | $25.00 Salchichas | $20.00 Yolanda #17 | $5.25 pizza | $1.85 servilletas,103.2,0.0,0.0,0
+14/07/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,5,0,25,9,2,2,0,61,16,0,9,0,4,1,0,86,166.2,$5.00 Javier | $50.00 salchichas | $1.20 pajillas | $70.00 de acceso | $40.00 Yolanda #18,54.0,0.0,0.0,0
+15/07/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,16,14,0,33,13,2,2,0,41,11,0,5,0,14,0,0,59,151.5,$4.00 transporte | $50.00 bebidas | $12.50 de cheddar | $ 85.00 de Vilma,13.15,0.0,0.0,0
+16/07/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,13,0,25,4,2,2,0,88,14,0,7,0,14,1,0,111,132.7,$2.70 de servilletas | $40.00 de mercado | $15.00 de sodas | $ 75.00 de Vilma,90.6,0.0,0.0,0
+17/07/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,13,11,0,25,8,2,2,0,55,10,0,4,3,16,0,0,76,59.58,$12.15 gas | $10 lays y soda | $30.00 sodas | $5.55 pan | $1.88 de polipel,142.3,0.0,0.0,0
+18/07/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,14,0,15,7,1,1,0,39,8,0,1,0,5,0,0,48,20.1,$0.70 de bolsa mini | $19.40 de chunks,110.95,0.0,0.0,0
+19/07/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,13,0,33,10,1,1,0,96,6,0,5,2,18,1,0,113,65.0,"$5.00 Javier | $50.00 sodas, ensalada picnic y lays. | $10.00 desechables",191.2,0.0,0.0,0
+20/07/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,10,9,0,22,3,1,1,0,16,9,0,4,2,5,0,0,33,0,,99.2,0.0,0.0,0
+22/07/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,3,12,0,21,52,1,1,0,70,9,0,7,2,29,0,0,88,155.3,"$50.00 sodas, lays y aderezos | $60.00 acceso | $15.30 de sodas | $30.00 de Vilma",80.6,0.0,0.0,0
+22/07/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,8,6,0,31,47,1,1,0,31,8,0,3,0,12,0,0,44,51.0,$6.00 desechables | $25.00 acceso | $20.00 de sodas,70.0,0.0,0.0,0
+23/07/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,7,11,0,53,46,0,1,0,57,5,0,1,0,10,0,0,63,27.0,$10.00 de vuelto | $17.00 de sodas,131.75,0.0,0.0,0
+24/07/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,11,3,0,31,40,2,1,0,44,6,0,2,2,12,0,0,58,0.0,$0,168.2,0.0,0.0,0
+25/07/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,14,9,0,86,11,2,1,0,65,5,0,4,2,18,0,0,76,106.0,$51.00 sodas y ketchup | $20.00 Yolanda #4 | $35.00 Vilma,57.5,0.0,0.0,0
+26/07/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,15,0,0,62,5,2,1,0,83,9,0,4,0,12,0,0,96,35.0,$15.00 pollo rico | $20.00 doña Yolanda,179.0,0.0,0.0,0
+27/07/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,12,12,0,48,20,2,1,0,23,13,0,0,0,11,0,0,36,0.0,$0.00,93.5,0.0,0.0,0
+28/07/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,13,7,0,34,16,2,1,0,62,15,0,2,0,21,0,0,79,153.95,$80.00 acceso | $15.00 Sodas | $40.00 Yolanda | $12.15 gas licuado | $6.80 desechables,86.6,0.0,0.0,0
+29/07/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,18,7,0,14,7,2,1,0,26,9,0,8,0,9,0,0,43,32.5,$12.50 de cheddar | $20.00 Yolanda,86.25,0.0,0.0,0
+30/07/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,15,13,0,31,3,2,0,0,21,7,0,2,0,3,0,0,32,14.99,$14.99,80.8,0.0,0.0,0
+31/07/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,1,14,0,9,0,2,0,0,44,9,0,3,0,17,0,0,56,0.0,$0,163.3,0.0,0.0,0
+01/08/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,11,14,0,9,0,2,0,0,44,9,0,3,0,17,0,0,56,0.0,$0,163.3,0.0,0.0,0
+02/08/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,15,11,0,51,47,2,0,0,42,11,0,0,0,6,0,0,53,120.0,$30.00 soda y lays | $90.00 de Vilma,8.25,0.0,0.0,0
+02/08/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,7,0,0,0,7,9,0,19,37,2,0,0,79,1,0,4,0,17,0,0,92,37.3,$30.00 aderezos | $3.00 transporte | $2.00 gas | $2.30 desechables,176.0,0.0,0.0,0
+02/08/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,7,0,0,0,7,9,0,19,37,2,0,0,79,1,0,4,0,17,0,0,92,157.3,$30.00 aderezos | $3.00 transporte | $2.00 gas | $2.30 desechables | $80 de niña yoly | $40 de Vilma,56.0,0.0,0.0,0
+04/08/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,10,6,0,29,28,2,0,0,53,5,0,5,0,15,2,0,65,76.55,$55.00 acceso | $20 sodas | $1.55 de ketchup,78.65,0.0,0.0,0
+05/08/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,8,0,0,0,5,6,0,6,22,2,0,0,54,5,0,1,2,13,0,0,62,150.0,$20.00 acceso | $10.00 desechables | $40.00 Doña Yolanda | $80.00 de Vilma,14.3,0.0,0.0,0
+07/08/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,1,10,0,15,16,2,0,0,43,2,0,1,2,8,0,0,54,88.25,$13.25 de sodas | $60.00 de niña yoly | $15 de Vilma,33.0,0.0,0.0,0
+08/08/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,13,8,0,37,10,2,0,0,41,12,0,4,0,11,0,0,57,41.0,$21.00 de sodas | $20.00 de niña yoly,93.0,0.0,0.0,0
+11/08/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,8,14,0,45,9,2,0,0,47,5,0,1,0,11,0,0,53,90.35,$2.70 Javier | $15.50 sodas | $12.15 gas | $5.00 pizza | $35.00 mercado | $20.00 Yolanda,42.65,0.0,0.0,0
+11/08/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,0,0,13,0,2,0,3,44,4,0,6,0,11,0,0,56,100.0,$25.00 mercado | $35.00 acceso | $40.00 Yolanda,56.8,0.0,0.0,0
+12/08/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,10,13,0,20,5,1,0,3,43,1,0,4,0,7,0,1,50,58.0,$20.00 de sodas | $35.00 de Vilma | $3.00 de lays,87.55,0.0,0.0,0
+13/08/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,6,11,0,11,2,1,0,3,28,8,0,3,0,6,0,0,39,83.0,$41.00 de acceso | $2.00 de chunks | $40.00 de Yolanda,20.05,0.0,0.0,0
+14/08/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,3,0,43,47,1,0,3,38,4,0,3,0,9,0,0,45,45.0,$45 .00 de gastos,65.3,0.0,0.0,0
+15/08/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,4,13,0,9,36,1,0,3,42,8,0,6,0,16,0,0,64,96.75,$1.75 de polipel | $20.00 Yolanda | $75.00 Vilma,65.8,0.0,0.0,0
+16/08/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,10,13,0,43,29,1,0,3,67,17,0,5,2,16,0,0,91,150.8,$40.00 de sodas | $4.50 de Javier | $6.30 desechables | $20.00 Yolanda | $80.00 de Vilma,58.25,0.0,0.0,0
+18/08/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,0,0,0,0,7,15,0,30,25,1,0,3,29,11,0,0,0,8,0,0,40,24.25,$1.25 Javier | $3.00 dolar city | $20.00 doña Yolanda,84.0,0.0,0.0,0
+18/08/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,15,0,36,6,1,0,3,89,10,0,11,0,22,0,0,112,235.5,$120 sodas y pagos | $25.50 Alitas y chunks | $70 acceso | $20 Yolanda,73.0,0.0,0.0,0
+19/08/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,14,0,16,46,1,0,3,34,6,0,7,0,8,0,0,49,48.0,$13.00 lays | $15.00 desechables | $20 .00 Yolanda,93.5,0.0,0.0,0
+20/08/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,5,2,0,19,41,2,0,3,45,6,0,4,0,6,0,0,55,61.15,$28.65 gas licuado | $20 doña Yolanda | $12.50 de cheddar,91.35,0.0,0.0,0
+22/08/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,8,0,46,40,1,2,3,30,1,0,3,1,0,0,0,35,40.0,$20.00 sodas | $20.00 Yolanda,74.45,0.0,0.0,0
+23/08/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,8,12,0,26,23,2,1,2,52,4,0,10,2,11,0,0,72,60.0,$20.00 sodas | $20.00 de pan | $20.00 Yolanda,145.25,0.0,0.0,0
+23/08/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,2,0,25,14,0,0,2,35,8,0,5,2,12,0,0,50,88.25,"$13.25 sodas | $45.00 aceite, pan. | $10.00 mayonesa | $20.00 yolanda",73.5,0.0,0.0,0
+24/08/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,4,7,0,1,6,0,0,0,48,11,0,1,1,15,0,0,69,0.35,$0.35 Javier,153.45,0.0,0.0,0
+25/08/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,5,7,0,15,44,0,0,0,50,9,0,15,4,15,0,0,78,203.0,"$117.00 pan, sodas, lays, mercado | $1.00 de mayonesa | $20.00 de acceso | $35.00 de Vilma | $30.00 de chunks",21.25,0.0,0.0,0
+26/08/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,7,7,0,15,42,2,0,0,36,6,0,1,0,12,1,0,43,26.75,$25.00 de acceso | $1.75 de polipel,47.0,0.0,0.0,0
+27/08/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,19,6,0,20,35,2,0,0,23,6,0,1,3,6,0,0,33,76.0,"$56.00 sodas, pan, desechables. | $20.00 de Yolanda",20.95,0.0,0.0,0
+28/08/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,15,9,0,47,31,2,0,0,56,8,0,3,0,13,0,0,69,80.0,$35.00 de sodas | $25.00 de papas | $20.00 de Yolanda,77.85,0.0,0.0,0
+29/08/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,10,3,0,21,20,2,0,0,47,10,0,4,0,13,0,0,67,85.0,$65.00 alcaldía y pan | $20.00 de Yolanda,97.35,0.0,0.0,0
+30/08/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,33,0,0,0,9,5,0,54,11,1,0,0,46,23,0,7,0,16,0,0,78,205.0,"$80.00 sodas, aderezos y servilletas | $35.00 pan | $20.00 de Yolanda | $70.00 de Vilma",33.6,0.0,0.0,0
+31/08/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,6,14,0,30,5,1,1,0,22,6,0,2,0,0,0,0,32,22.75,$2.75 Javier | $20.00 pago doña yolands,82.0,0.0,0.0,0
+31/08/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,6,14,0,30,5,1,1,0,22,6,0,2,0,0,0,0,32,22.75,$2.75 Javier | $20.00 pago doña yolands,82.0,0.0,0.0,0
+01/09/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,6,14,0,30,5,1,1,0,22,6,0,2,0,0,0,0,32,72.75,$2.75 Javier | $20.00 pago doña yolands | $50.00 Vilma,32.0,0.0,0.0,0
+01/09/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,3,0,21,42,1,1,0,75,10,0,3,0,0,0,0,90,70.0,"$50.00 sodas, lays y Javier | $20 .00 de Yolanda",184.46,0.0,0.0,0
+02/09/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,8,11,0,36,39,1,1,0,47,6,0,2,0,0,0,0,57,120.0,$30.00 pan | $55 acceso | $15.00 sodas | $20 .00 de Yolanda,36.45,0.0,0.0,0
+03/09/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,4,5,0,20,32,1,1,0,53,10,0,6,0,0,0,0,71,49.3,$4.30 de gas | $25.00 de acceso | $20 .00 de Yolanda,88.05,0.0,0.0,0
+04/09/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,7,15,0,21,29,1,1,0,37,11,0,3,2,0,0,0,53,85.0,$50.00 pan y mercado. | $15.00 sodas | $20 .00 de Yolanda,44.2,0.0,0.0,0
+05/09/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,12,7,0,13,28,1,1,0,45,6,0,1,0,0,0,0,52,72.5,$12.50 de cheddar | $40.00 aderezos | $20 .00 de Yolanda,37.45,0.0,0.0,0
+06/09/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,11,7,0,35,24,0,1,0,78,8,0,1,2,0,0,1,89,124.7,$60.00 pan | $2.70 de pan del súper | $35.00  sodas | $5.00 desechables | $2.00 donas | $20.00 Yolanda,84.0,0.0,0.0,0
+08/09/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,5,5,0,50,13,0,1,0,55,11,0,8,1,0,0,0,75,133.65,$28 de sodas | $30.00 de mercado | $3.50 desechables | $12.15 de gas | $60.00 de Vilma,66.55,0.0,0.0,0
+09/09/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,11,1,0,38,8,0,1,0,40,7,0,1,0,0,0,0,48,50.0,$20 de Yolanda | $30 de acceso,67.85,0.0,0.0,0
+10/09/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,15,5,0,29,8,0,1,0,35,9,0,0,0,0,0,0,44,70.0,$50 de acceso | $ 20 de pan,31.6,0.0,0.0,0
+11/09/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,12,9,0,21,8,0,1,0,28,7,0,0,0,0,0,0,35,60.0,$60.00 Yolanda,36.35,0.0,0.0,0
+12/09/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,16,3,0,35,28,0,3,0,54,6,0,3,2,0,2,0,65,123.15,"$35 .00 a Vilma | $12.15 de gas | $46.00 de sodas,lays, aceite,y desechables | $30.00 Yolanda",52.0,0.0,0.0,0
+13/09/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,10,15,0,31,17,0,3,0,66,14,0,4,4,0,0,0,88,122.15,$12.15 de gas | $20 .00 de chunks | $30.00 Yolanda | $5.00 desechables | $55.00 de pan,116.2,0.0,0.0,0
+14/09/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,7,1,0,16,13,0,3,0,38,6,0,4,0,0,0,0,48,30.0,$30.00 Yolanda,108.5,0.0,0.0,0
+16/09/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,3,0,18,8,0,3,0,61,12,0,5,0,0,0,0,78,160.3,$30 de acceso | $15.30 de sodas | $60.00 Yolanda | $55.00 de Vilma,35.95,0.0,0.0,0
+17/09/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,29,3,0,10,4,0,3,0,39,6,0,2,1,0,0,0,48,115.0,"$45.00 Vilma | $30.00 ketchups, mayo y desechables. | $40 de acceso",29.4,0.0,0.0,0
+18/09/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,26,6,0,22,14,0,3,0,29,2,0,3,0,0,0,0,34,72.65,$15.00 de sodas | $3.00 de lays | $ 12.15 de gas | $ 30.00 de Yolanda | $12.50 de cheddar,8.25,0.0,0.0,0
+19/09/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,21,1,0,30,8,0,3,0,51,7,0,7,0,0,0,0,65,45.0,$15.00 de sodas | $ 30.00 de Yolanda,112.5,0.0,0.0,0
+20/09/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,26,6,0,22,14,0,3,0,29,2,0,3,0,0,0,0,34,72.65,$15.00 de sodas | $3.00 de lays | $ 12.15 de gas | $ 30.00 de Yolanda | $12.50 de cheddar,8.25,0.0,0.0,0
+20/09/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,16,0,0,14,10,0,3,0,53,4,0,6,2,0,0,0,65,60.0,$ 30.00 de Yolanda | $30.00 de Vilma,130.5,0.0,0.0,0
+20/09/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,0,0,0,26,6,0,22,14,0,3,0,29,2,0,3,0,0,0,0,34,72.65,$15.00 de sodas | $3.00 de lays | $ 12.15 de gas | $ 30.00 de Yolanda | $12.50 de cheddar,8.25,0.0,0.0,0
+22/09/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,21,1,0,30,8,0,3,0,51,7,0,7,0,0,0,0,65,45.0,$15.00 de sodas | $ 30.00 de Yolanda,112.5,0.0,0.0,0
+22/09/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,17,6,0,14,10,0,3,0,53,4,0,6,2,0,0,0,65,60.0,$ 30.00 de Yolanda | $30.00 de Vilma,130.5,0.0,0.0,0
+22/09/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,20,6,0,15,20,0,2,0,38,4,0,7,2,0,1,0,51,70.0,$ 60.00 de Yolanda | $10.00 de sodas,105.25,0.0,0.0,0
+23/09/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,16,12,0,41,19,0,2,0,36,4,0,1,0,0,0,0,41,70.25,$ 30.00 de Yolanda | $25.00 de sodas | $0.25 de Javier | $15.00 de gas,39.5,0.0,0.0,0
+24/09/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,16,12,0,41,19,0,2,0,36,4,0,1,0,0,0,0,41,70.25,$ 30.00 de Yolanda | $25.00 de sodas | $0.25 de Javier | $15.00 de gas,39.5,0.0,0.0,0
+24/09/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37.15,$13.65 de gas | $20.00 fosofamilia | $3.50 Javier,0,0.0,0.0,0
+24/09/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,12,11,0,30,18,0,2,0,34,5,0,2,0,0,0,0,41,67.15,$ 30.00 de Yolanda | $13.65 de gas | $20.00 foso familia | $3.50  de Javier,57.35,0.0,0.0,0
+26/09/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,13,12,0,19,13,0,2,0,36,0,0,5,0,0,0,0,41,90.0,$60.00 aderezos | $30.00 Yolanda,23.8,0.0,0.0,0
+26/09/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,10,15,0,30,11,0,2,0,34,0,0,2,0,0,0,0,36,71.65,$1.65 de aceite | $15.00 de sodas | $45 .00 de Vilma | $10.00 Yolanda,27.15,0.0,0.0,0
+27/09/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,7,0,0,0,5,12,0,53,5,0,2,0,70,0,0,6,0,0,0,0,76,63.2,$2.00 Javier | $40 bebidas | $21.20 Yolanda,88.75,0.0,0.0,0
+30/09/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,1,6,0,34,12,1,2,0,62,0,0,4,0,0,0,0,66,68.0,$5.00 Javier | $3.00 lays | $60.00 de Yolanda,64.75,0.0,0.0,0
+30/09/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,4,0,0,18,7,1,2,0,50,11,0,5,0,0,0,0,70,91.0,$25.00 de alcaldía | $36.00 acceso | $30.00 de Yolanda,73.0,0.0,0.0,0
+01/10/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,4,4,0,20,13,1,2,0,49,6,0,1,0,0,1,0,56,160.0,$20.00 mercado | $10.00 lays | $30.00 de Yolanda | $100.00 de Vilma,14.0,0.0,0.0,0
+02/10/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,5,5,0,36,4,1,2,0,31,5,0,7,1,0,0,0,46,125.0,$25.00 sodas | $100.00 de Vilma,102.0,0.0,0.0,0
+03/10/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66.95,$30.00 Yolanda | $9.80 lays | $12.15 gas | $15.00 sodas,0,0.0,0.0,0
+03/10/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,4,15,0,30,35,1,2,0,52,5,0,6,0,0,0,0,63,66.95,$15.00 sodas | $9.80 de lays | $12.15 de gas | $30.00 de Yolanda,131.4,0.0,0.0,0
+04/10/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,7,4,0,15,9,1,2,0,40,8,0,21,0,0,0,0,69,50.0,$30.00 de Yolanda | $20.00 Vilma,165.65,0.0,0.0,0
+05/10/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,7,5,0,43,13,1,2,0,46,11,0,5,0,0,0,0,62,40.0,$10.00 lays | $30 Yolanda,101.65,0.0,0.0,0
+07/10/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,0,0,44,5,1,2,6,71,15,0,3,0,0,3,0,89,73.0,$15 de  pan | $25 de mercado | $30 Yolanda | $3.00 de ketchup,152.8,0.0,0.0,0
+07/10/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,13,4,0,28,14,1,2,6,35,10,0,2,0,0,0,0,49,47.15,$12.15 de gas | $30 Yolanda | $5.00 de aceite,93.3,0.0,0.0,0
+08/10/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,2,0,11,10,1,2,6,41,7,0,4,0,0,0,0,52,0.0,$0.00,145.05,0.0,0.0,0
+09/10/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,10,0,34,9,2,1,6,58,8,0,0,0,0,0,0,66,77.15,$5.00 de aceite | $12.15 de cheddar | $60.00 Yolanda,59.3,0.0,0.0,0
+10/10/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,14,0,0,23,5,2,1,6,37,2,0,0,2,0,0,0,41,350.0,$20.00 de pan | $300.00 de Vilma | $30.00 Yolanda,77.6,0.0,0.0,0
+13/10/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,9,15,0,26,3,2,1,6,46,4,0,0,2,0,0,0,52,140.0,"$75.00 de pan ,papas ,lays,sodas ,pizza | $35 de Vilma | $30.00 Yolanda",35.6,0.0,0.0,0
+13/10/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,13,3,0,30,12,2,1,6,40,5,0,0,0,0,0,0,45,83.0,$1.00 Mayonesa | $1.00 Javier | $60.00 Acceso | $21.00 Sodas y ketchup,80.1,0.0,0.0,0
+14/10/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,10,10,0,16,8,1,2,6,29,1,1,2,0,9,0,0,35,57.5,$2.50 gas | $20.00 acceso | $35.00 Yolanda,24.35,0.0,0.0,0
+15/10/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,0,0,0,5,8,0,30,6,0,2,6,54,4,2,1,1,5,0,1,62,145.0,$50 de sodas | $10.00 gas | $20.00 acceso | $30.00 Yolanda | $35.00 de Vilma,22.1,0.0,0.0,0
+16/10/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,9,5,0,49,6,2,0,6,35,11,1,0,0,4,0,0,47,127.15,$12.15 gas | $30.00 Yolanda | $25 pan | $15 sodas | $ 45 .00Vilma,4.2,0.0,0.0,0
+17/10/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,3,10,0,30,18,2,0,4,59,6,3,5,0,12,0,0,75,110.0,$30.00  Yolanda | $60.00  de pan y aderezo | $20.00 de Vilma,58.25,0.0,0.0,0
+21/10/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,7,4,0,50,13,4,0,3,63,6,7,3,1,18,0,0,82,187.5,$70.00 pan y soda. | $24.30 gas | $30.00 Yolanda | $60.00 de Vilma | $3.20 trasegados,19.95,0.0,0.0,0
+21/10/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,7,1,0,11,2,4,0,3,52,10,4,7,2,22,0,0,79,175.5,$4.00 desechables | $16.50  gas | $60.00 Yolanda | $40. Acceso | $55.00 de mercado,29.45,0.0,0.0,0
+21/10/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,3,7,0,23,6,3,0,1,47,3,0,5,2,4,0,1,59,108.0,$25.00 sodas y lays | $45 acceso | $3.00 desechables | $5.00 gasolina | $30.00 de yoly,31.95,0.0,0.0,0
+22/10/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,5,13,0,23,5,3,0,1,57,13,0,10,0,5,0,0,82,60.0,$30.00 sodas y desechables | $30.00 de yoly,114.05,0.0,0.0,0
+23/10/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,9,5,0,37,13,3,0,1,50,9,0,3,1,6,0,0,63,100.0,"$70.00 mercado, sodas y deschables | $30.00 de Yolanda",34.0,0.0,0.0,0
+24/10/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,7,13,0,24,7,3,0,1,40,4,0,4,1,4,0,0,51,55.75,$25.00 pan | $0.75 Javier | $30.00 Yolanda,92.45,0.0,0.0,0
+25/10/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,10,5,0,41,17,3,0,1,52,16,0,1,2,8,0,0,71,182.2,"$100.00 pan, sodas, jugos, agua y lays | $5.00 de pizza | $12.20 gas | $30.00 de niña Yolanda | $35.00 de Vilma",19.2,0.0,0.0,0
+27/10/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,12,13,0,20,10,3,0,1,57,13,0,6,1,14,0,0,77,360.0,$50.00 ACCESO | $300.00 Vilma | $10.00 ketchup,139.9,0.0,0.0,0
+28/10/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,14,1,0,33,5,3,0,0,37,13,0,4,1,6,0,0,55,60.0,$30.00 ACCESO | $30.00 de sodas,94.25,0.0,0.0,0
+29/10/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,9,10,0,33,10,3,0,0,48,10,0,2,0,8,0,0,60,76.5,$40.00 Yolanda | $20.00 mercado | $1.50 franelas | $10.00 Vilma | $5.00 Javier,78.75,0.0,0.0,0
+30/10/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,8,9,0,36,5,3,0,0,49,10,0,3,0,14,2,0,62,120.0,$55 mercado | $40 Yolanda | $15.00 sodas | $10.00 de Vilma,62.95,0.0,0.0,0
+31/10/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,15,11,0,14,1,2,0,2,45,9,0,2,3,16,0,1,59,92.15,$40 Yolanda | $12.15 de gas | $40.00 de pan,74.45,0.0,0.0,0
+01/11/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,7,13,0,45,11,2,0,1,71,16,0,13,0,25,0,0,100,240.0,$5.00 desechables | $40.00 Yolanda | $35.00 pan | $30.00 sodas | $130.00 de  Vilma,13.75,0.0,0.0,0
+02/11/2025,Sunday,Vilma Luna,Parque San Martin,8,0,8,0,0,1,0,1,0,0,0,13,11,0,37,6,2,0,1,16,0,0,2,0,6,1,0,22,46.0,$6.00 ketchup | $40.00 Yolanda,31.75,0.0,0.0,0
+03/11/2025,Monday,Vilma Luna,Parque San Martin,8,0,0,0,0,48,12,4,0,0,0,7,9,0,60,12,1,0,0,60,14,0,1,0,0,0,1,79,157.9,$5.00 Dolar | $40 acceso | $0.90 servilletas | $40 Yolanda | $30 vuelto | $30.00 soda y lays,44.05,0.0,0.0,0
+04/11/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,2,14,0,33,6,1,0,0,48,11,0,1,0,0,0,0,62,57.5,$12.50 de cheddar | $35.00 acceso | $10.00 de Vilma,96.3,0.0,0.0,0
+05/11/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,15,0,11,13,1,0,0,34,11,0,1,0,0,1,0,46,96.0,$6.00 ketchup | $80.00 yolanda | $10.00 Vilma,27.5,0.0,0.0,0
+06/11/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,3,11,0,11,7,1,0,0,33,10,0,4,0,0,0,0,47,67.65,$12.15 de gas | $2.50 desechables | $3 de aderezos | $40.00 Yolanda | $10.00 de Vilma,66.75,0.0,0.0,0
+07/11/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,0,0,0,8,5,0,22,13,1,0,0,34,6,0,5,0,0,0,0,45,85.5,$12.50 de cheddar | $33.00 de sodas | $40.00 de pan,44.75,0.0,0.0,0
+08/11/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,1,15,0,22,2,1,0,0,63,10,0,10,0,0,0,0,83,143.63,$0.25 Javier | $13.13 sodas | $15.00 Javier | $10.00 pan | $80.00 Yolanda | $5.25 pizza,40.35,0.0,0.0,0
+09/11/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,6,5,0,10,0,1,0,0,33,9,0,1,0,0,0,0,43,0.0,$0.00,95.65,0.0,0.0,0
+10/11/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,0,6,0,3,0,1,0,0,64,17,0,12,0,0,0,0,93,156.19,$23.19 sodas | $50.00 acceso | $3.00 lays | $80.00 yolanda,83.5,0.0,0.0,0
+11/11/2025,Tuesday,Vilma Luna,Parque San Martin,11,0,5,0,0,36,12,4,0,0,0,1,5,0,29,12,1,0,0,44,10,0,0,0,9,0,0,54,55.64,$4.65 gas | $3.00 ketchup | $14.99 sodas | $3.00 lays | $30.00 acceso,42.6,0.0,0.0,0
+12/11/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,8,0,0,11,0,3,0,0,0,5,9,0,9,8,2,0,0,33,6,0,3,0,3,0,0,42,110.0,$4.30  gas | $0.70 desechables | $80.00 de Yolanda | $25.00 de Vilma,7.75,0.0,0.0,0
+13/11/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,11,2,0,28,8,2,0,0,31,0,4,0,0,8,0,0,35,40.15,$3.00 ketchup | $12.15 gas | $25 pan,28.45,0.0,0.0,0
+14/11/2025,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,8,9,0,26,4,1,0,0,73,0,10,4,0,21,0,1,87,108.25,$13.25 de sodas | $80.00 Yolanda | $15.00 de mamá de Fernando,82.55,0.0,0.0,0
+15/11/2025,Saturday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,1,10,0,18,1,1,0,0,92,0,11,11,0,18,0,0,114,278.0,$10.00 sodas | $6.00 lays | $10.00 Fernando | $1.00 Javier | $5.00 desechables | $5.00 pizza,31.95,0.0,0.0,0
+16/11/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,0,0,6,10,0,51,8,1,0,0,51,0,5,5,0,9,0,0,61,66.5,$26.50 sodas | $40 Yolanda,68.7,0.0,0.0,0
+17/11/2025,Monday,Vilma Luna,Parque San Martin,7,0,8,0,0,24,12,4,0,0,0,4,13,0,20,12,1,0,0,116,0,19,6,0,41,0,0,145,212.0,"$12.00 aderezos | $5.00 Javier | $50.00 acceso | $25.00 pan | $50.00 mercado | $25.00 sodas, lays y ketchup",119.4,0.0,0.0,0
+18/11/2025,Tuesday,Vilma Luna,Parque San Martin,11,30,5,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36.0,$6.00 desechables | $30.00 pan,0,0.0,0.0,0
+18/11/2025,Tuesday,Vilma Luna,Parque San Martin,11,5,5,0,0,24,0,0,0,0,0,5,0,0,21,9,4,0,0,49,12,0,2,0,19,0,0,63,118.15,$6 .00 desechables | $30 .00 de pan | $30.00 acceso | $12.15 de gas | $40.00 Yolanda,43.25,0.0,0.0,0
+19/11/2025,Wednesday,Vilma Luna,Parque San Martin,0,12,2,0,0,18,12,2,0,0,0,1,15,0,16,13,4,0,0,52,12,0,4,0,9,1,0,70,49.0,"$4.00 Javier | $45 pan, sodas y salchicha",117.65,0.0,0.0,0
+20/11/2025,Thursday,Vilma Luna,Parque San Martin,0,0,8,0,0,24,0,5,0,0,0,5,2,0,19,12,4,0,0,49,10,0,1,0,16,0,0,60,138.0,$5.00 desechables | $15.00 sodas | $3.00 Javier | $25 mercado | $80.00 Yolanda | $10 Vilma,12.0,0.0,0.0,0
+21/11/2025,Friday,Vilma Luna,Parque San Martin,9,0,0,0,0,24,0,2,0,0,0,1,6,0,27,4,4,0,0,34,5,0,3,5,6,0,0,47,70.0,$20.00 sodas | $ 10.00 de Javier | $40.00 Yolanda,51.75,0.0,0.0,0
+22/11/2025,Saturday,Vilma Luna,Parque San Martin,3,0,7,10,0,24,12,2,0,0,0,3,7,0,26,11,4,0,0,78,13,0,0,0,20,0,0,91,171.45,$10.25 Javier | $12.15 gas licuado | $2.05 desechables | $5.00 pizza | $80.00 pan y salchicha | $2.00 aceite,23.05,0.0,0.0,0
+23/11/2025,Sunday,Vilma Luna,Parque San Martin,10,5,5,0,0,24,0,1,0,0,0,6,7,0,41,8,4,0,0,20,6,0,1,1,6,0,0,28,15.0,$15.00 sodas,54.9,0.0,0.0,0
+24/11/2025,Monday,Vilma Luna,Parque San Martin,3,0,8,0,0,0,12,4,0,0,0,7,6,0,5,11,4,0,0,69,16,0,9,0,26,0,0,94,182.0,$40.00 acceso | $50.00 mercado | $2.00 desechables | $80.00 Yolanda | $10.00 Vilma,38.45,0.0,0.0,0
+25/11/2025,Tuesday,Vilma Luna,Parque San Martin,9,0,2,0,0,24,0,2,0,0,0,5,0,0,10,5,4,0,0,41,5,1,3,1,12,0,0,51,48.0,$5.00 sodas | $23.00 pan | $20.00 Acceso,56.5,0.0,0.0,0
+26/11/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,24,12,2,0,0,0,2,9,0,22,11,4,0,0,38,4,0,5,0,4,0,0,47,90.4,"$12.15 gas | $21.00 acceso | $29.00 soda, lays, desechables y aceites | $3.00 ketchup | $5.25 parqueo | $20 Yolanda",42.2,0.0,0.0,0
+27/11/2025,Thursday,Vilma Luna,Parque San Martin,12,0,5,0,0,0,0,4,0,0,0,4,0,0,1,6,4,0,0,30,4,0,2,1,11,0,0,41,43.0,$40.00 de pan | $3.00 de dolar city,94.85,0.0,0.0,0
+28/11/2025,Friday,Vilma Luna,Parque San Martin,0,0,10,0,0,24,12,2,0,0,0,9,0,0,7,12,4,0,0,38,8,8,1,0,10,0,0,55,55.0,$40.00 Yolanda | $15.00 Vilma,123.45,0.0,0.0,0
+29/11/2025,Saturday,Vilma Luna,Parque San Martin,10,0,0,0,0,44,0,3,0,0,0,3,0,0,28,10,4,0,0,77,9,0,1,1,18,0,0,88,172.75,$2.00 Javier | $5.75 desechables | $50.00 salchicha | $20.00 Alcaldía | $40.00 Yolanda | $55.00 Vilma,20.25,0.0,0.0,0
+03/12/2025,Wednesday,Vilma Luna,Parque San Martin,10,0,14,0,0,24,0,3,0,0,0,0,0,0,10,6,4,0,0,38,12,0,1,3,0,0,0,54,42.0,$40.00 Yolanda | $2.00 Javier,95.75,0.0,0.0,0
+03/12/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,0,0,0,7,1,4,0,0,62,5,0,4,0,0,0,0,71,186.65,$40.00 de acceso | $6.65 de desechables | $40.00 Yolanda | $100.00  de Vilma,5.6,0.0,0.0,0
+03/12/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,0,0,0,2,13,0,32,4,4,0,0,40,5,0,3,0,0,1,0,50,67.5,$12.50 cheddar | $13.00 sodas y lays | $5.00 pan | $31.00 acceso | $6.00 Javier,49.25,0.0,0.0,0
+03/12/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,0,0,2,6,0,42,12,4,0,0,51,3,0,3,0,0,1,0,57,98.0,$2.00 Javier | $16.00 sodas | $80.00 Yolanda,56.5,0.0,0.0,0
+05/12/2025,Friday,Vilma Luna,Parque San Martin,0,0,10,0,0,24,0,0,0,0,0,8,2,0,22,6,4,0,0,65,2,0,6,0,0,0,0,73,43.0,$3.00 de ketchup | $40.00 Yolanda,117.3,0.0,0.0,0
+07/12/2025,Sunday,Vilma Luna,Parque San Martin,25,0,24,0,0,72,12,4,0,0,0,18,9,0,49,8,4,0,0,32,39,0,91,1,77,0,0,163,409.0,"$130.00 sodas, lays, desechables, aderezos, pizza. | $150 Vilma (prestamo) | $60 JM préstamo | $49.00 Yolanda | $20.00 parqueo",114.05,0.0,0.0,0
+07/12/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,0,0,0,14,13,0,30,1,3,0,0,38,0,0,2,0,14,0,0,40,0.0,$0.00,149.05,0.0,0.0,0
+08/12/2025,Monday,Vilma Luna,Parque San Martin,10,0,0,0,0,24,24,6,0,0,0,8,14,0,5,8,3,0,0,59,16,0,2,0,13,0,0,79,135.5,$40.00 acceso | $80.00 Yolanda | $15.50 sodas,83.15,0.0,0.0,0
+09/12/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,8,0,5,0,0,2,0,0,0,13,12,5,18,6,3,0,0,32,8,0,2,0,0,0,0,42,73.0,$38 de acceso | $35.00 BAC,39.4,0.0,0.0,0
+10/12/2025,Wednesday,Vilma Luna,Parque San Martin,9,11,0,0,0,24,0,5,8,11,8,10,10,4,27,2,3,0,0,32,2,0,4,0,9,0,0,38,84.05,$4.05 pan | $25 pan | $15.00 sodas | $40.00 Yolanda,19.75,0.0,0.0,0
+11/12/2025,Thursday,Vilma Luna,Parque San Martin,4,0,0,0,2,0,12,3,8,2,5,6,15,6,18,10,3,0,0,38,12,0,2,1,5,0,0,53,102.0,$2.00 servilleta | $20.00 pan | $80.00 Yolanda,17.65,0.0,0.0,0
+12/12/2025,Friday,Vilma Luna,Parque San Martin,5,0,7,0,0,24,0,3,7,0,5,9,5,6,25,7,3,0,0,50,5,0,2,0,11,0,0,57,78.0,"$53 pan, mercado y gasolina. | $15.00 sodas | $10.00 Vilma",68.25,0.0,0.0,0
+13/12/2025,Saturday,Vilma Luna,Parque San Martin,8,0,8,0,0,56,12,4,0,0,0,11,7,0,44,10,0,0,0,54,14,0,4,0,19,0,2,72,152.5,"$62.50 pan, sodas y lays | $10.00 gas | $80.00 Yolanda",48.25,0.0,0.0,0
+14/12/2025,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,3,10,5,8,15,6,41,7,2,0,0,19,13,0,1,1,6,0,0,34,51.5,$40.00 Yolanda | $11.50 Javier,54.75,0.0,0.0,0
+15/12/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,5,1,2,5,2,7,6,14,5,2,0,0,77,17,0,2,0,17,0,0,96,181.35,$40.00 de acceso | $1.35 de servilletas | $40.00 Yolanda | $100.00 de Vilma,28.9,0.0,0.0,0
+16/12/2025,Tuesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,6,6,6,5,3,3,6,25,2,2,0,0,43,9,0,1,0,11,1,0,53,110.0,$40.00 de acceso | $5.00 desechables | $15.00 de sodas | $40.00 Yolanda | $10.00 de Vilma,27.55,0.0,0.0,0
+17/12/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,2,10,5,1,0,6,33,10,2,0,0,62,14,0,9,0,15,0,0,87,45.0,$15.00 pan | $30.00 sodas,187.95,0.0,0.0,0
+18/12/2025,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,2,10,5,1,0,6,33,10,2,0,0,62,14,0,9,0,15,0,0,87,77.15,$15.00 pan | $30.00 sodas | $20.00 Vilma | $12.15 GAS,177.95,0.0,0.0,0
+18/12/2025,Thursday,Vilma Luna,Parque San Martin,10,0,5,0,0,0,0,2,5,4,5,0,6,6,13,5,2,0,0,59,5,0,3,1,14,1,0,68,84.6,$1.25 Javier | $1.60 de mayonesa | $1.75 de polipel | $80.00 Yolanda,95.6,0.0,0.0,0
+19/12/2025,Friday,Vilma Luna,Parque San Martin,3,10,17,1,0,48,12,5,1,4,5,11,10,6,36,9,2,0,0,45,11,0,5,0,12,0,0,61,60.09,$3.09 salchichas | $1.60 desechables | $5.40 de pan lido | $40.00 Yolanda | $10.00 Vilma,128.0,0.0,0.0,0
+20/12/2025,Saturday,Vilma Luna,Parque San Martin,16,0,0,0,0,54,0,3,8,6,5,5,0,6,70,5,2,0,0,78,11,0,3,1,14,0,0,93,91.0,$25.00 de pan | $25.00 de sodas | $1.00 de Javier | $40.00 Yolanda,96.75,0.0,0.0,0
+22/12/2025,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,5,1,5,5,15,6,38,1,2,0,0,80,5,0,4,0,27,0,0,89,400.0,$80.00 Yolanda | $20.00 de Vilma | $300.00 de Vilma jueves 18/12,142.4,0.0,0.0,0
+24/12/2025,Wednesday,Vilma Luna,Parque San Martin,13,0,15,0,0,82,12,6,0,0,5,13,14,6,71,7,1,0,0,67,20,0,3,1,34,0,1,91,40.0,$40.00 Yolanda,234.7,0.0,0.0,0
+24/12/2025,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,12,1,1,0,5,8,4,6,32,11,0,0,0,61,11,2,4,0,27,1,1,78,5.0,$5.00 dolar city,224.1,0.0,0.0,0
+26/12/2025,Friday,Vilma Luna,Parque San Martin,12,0,0,0,0,0,0,2,7,0,5,3,0,6,12,8,0,0,0,45,5,1,0,0,12,0,0,51,133.0,$50 acceso | $80 Yolanda | $3.00 ketchup,34.5,0.0,0.0,0
+29/12/2025,Monday,Vilma Luna,Parque San Martin,10,0,5,0,0,72,0,4,10,3,5,3,10,6,59,5,0,0,0,55,11,3,3,0,0,0,0,72,157.8,$23.55 gas | $13.25 sodas | $46.00 pan | $35.00 Vilma | $40.00 Yolanda,29.45,0.0,0.0,0
+29/12/2025,Monday,Vilma Luna,Parque San Martin,0,0,6,0,0,0,0,7,1,2,5,2,14,6,36,2,3,0,0,60,5,3,2,1,0,0,0,71,121.25,$50.00 Acceso | $50.00 ahorro deuda | $1.25 soda | $20.00 Vilma,104.65,0.0,0.0,0
+30/12/2025,Tuesday,Vilma Luna,Parque San Martin,10,0,8,0,0,0,12,2,3,2,0,4,12,0,16,7,3,0,0,61,0,4,3,1,11,0,0,71,39.5,$25 pan | $1.00 agua sin ticket | $12.50 de cheddar | $1.00 bolsas basura sin ticket,152.4,0.0,0.0,0
+31/12/2025,Wednesday,Vilma Luna,Parque San Martin,10,0,16,15,0,82,6,4,1,0,0,12,12,0,51,7,0,0,0,89,15,2,3,0,40,0,2,111,216.4,$15.00 sodas | $16.40 sodas y salchichas | $150 Vilma | $35.00 ahorro Juan Carlos.,83.25,0.0,0.0,0
+02/01/2026,Friday,Vilma Luna,Parque San Martin,16,0,8,0,0,48,18,4,5,6,0,10,19,0,57,8,0,0,0,99,18,2,11,0,17,1,0,132,88.2,$18.61 de pan | $40.00 acceso | $29.59 sodas,330.2,0.0,0.0,0
+03/01/2026,Saturday,Vilma Luna,Parque San Martin,0,0,8,0,0,0,0,3,9,8,0,12,21,0,40,6,0,0,0,54,11,0,2,0,9,0,1,67,57.9,$8.40 PAN | $10.55 deschable + DelVall | $10.00 Vilma | $28.95,445.7,0.0,0.0,0
+05/01/2026,Monday,Vilma Luna,Parque San Martin,10,0,10,0,2,48,12,8,7,9,0,0,0,2,53,2,0,0,0,91,13,0,5,0,21,1,0,109,122.74,"$48.47 sodas, jugos, ketchup y lays | $2.90 impresiones | $10.00 Vilma | $61.37",763.99,0.0,0.0,0
+07/01/2026,Wednesday,Vilma Luna,Parque San Martin,4,0,0,0,0,0,12,5,6,3,0,0,0,2,33,8,0,0,0,38,4,0,6,0,9,0,0,48,104.3,$11.15 de gas | $30.00 pan | $1.00 de agua | $10.00 Vilma | $52.15,293.8,0.0,0.0,0
+07/01/2026,Wednesday,Vilma Luna,Parque San Martin,8,0,0,0,0,24,0,2,2,6,0,7,1,2,45,8,4,0,0,35,2,1,0,0,11,0,0,38,130.38,$14.99 sodas | $35.95 aderezos | $4.25 librería | $10.00 Vilma | $65.19,104.16,0.0,0.0,0
+08/01/2026,Thursday,Vilma Luna,Parque San Martin,8,0,0,0,0,0,0,4,4,8,0,2,11,2,27,5,4,0,0,49,8,1,1,0,15,0,0,59,80.0,$30 acceso | $10.00 Vilma | $40.00,305.4,0.0,0.0,0
+09/01/2026,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,9,10,0,9,9,2,33,13,4,0,0,48,3,0,2,0,12,0,0,53,60.04,$31 de acceso | $17.69 sodas y pan | $1.35 de servilletas | $10.00 de Vilma,153.8,0.0,0.0,0
+10/01/2026,Saturday,Vilma Luna,Parque San Martin,4,0,0,0,0,48,0,4,6,6,0,4,1,2,61,6,3,0,0,67,3,7,3,0,0,0,0,82,42.15,$10.00 Vilma | $20.00 Vilma (abonó a deuda) | $12.15 gas,164.25,0.0,0.0,0
+13/01/2026,Tuesday,Vilma Luna,Parque San Martin,8,0,16,0,0,0,12,3,6,11,0,14,6,2,32,12,2,0,0,49,15,4,2,1,18,1,1,71,24.5,$2.00 polipel (falta ticket) | $12.50 Queso | $10.00 Vilma,206.3,0.0,0.0,0
+14/01/2026,Wednesday,Vilma Luna,Parque San Martin,10,0,8,0,0,0,0,3,13,0,0,19,7,2,25,12,2,0,0,28,3,1,0,0,5,0,0,32,10.73,$0.73 kenny | $10.00 Vilma,110.02,0.0,0.0,0
+14/01/2026,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,7,7,0,15,6,2,29,9,2,0,0,50,7,2,3,0,12,0,0,62,10.0,$10.00 Vilma,202.5,0.0,0.0,0
+15/01/2026,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,10,6,0,15,1,2,29,3,1,0,0,44,1,1,3,0,14,1,1,51,149.58,$8.00 de sodas | $6.58 de desechables | $40.00 de acceso | $95.00 Vilma,53.0,0.0,0.0,0
+16/01/2026,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,2,8,0,17,3,2,15,1,1,0,0,74,5,3,0,0,9,0,0,82,93.0,$38.00 acceso | $55.00 Vilma,127.55,0.0,0.0,0
+17/01/2026,Saturday,Vilma Luna,Parque San Martin,10,0,0,0,0,48,12,1,3,3,0,10,2,2,26,9,1,0,0,79,15,9,2,0,33,1,0,105,136.0,$17.00 jugos y desecha | $46.00 pan | $60.00 abonó la unión | $10.00 Vilma | $3.00 liquidó,178.4,0.0,0.0,0
+19/01/2026,Monday,Vilma Luna,Parque San Martin,10,0,8,2,0,44,12,4,3,1,0,10,11,2,43,11,3,0,0,80,13,6,6,1,13,0,0,110,27.15,$5.00 pan | $12.15 gas | $10.00 Vilma,239.35,0.0,0.0,0
+21/01/2026,Wednesday,Vilma Luna,Parque San Martin,10,0,0,0,0,0,0,2,6,4,0,5,10,2,22,8,3,0,0,57,7,2,1,1,10,0,0,70,22.15,$12.15 gas | $10.00 Vilma,175.0,0.0,0.0,0
+21/01/2026,Wednesday,Vilma Luna,Parque San Martin,10,0,10,0,0,40,0,2,10,8,0,11,6,2,42,7,3,0,0,51,6,0,1,0,15,0,0,58,10.0,$10.00 Vilma,163.3,0.0,0.0,0
+22/01/2026,Thursday,Vilma Luna,Parque San Martin,0,0,10,0,0,48,0,2,4,10,0,17,1,2,64,4,3,0,0,52,3,0,3,0,18,0,0,58,98.85,$78.85 de acceso | $20.00 de sodas,79.6,0.0,0.0,0
+23/01/2026,Friday,Vilma Luna,Parque San Martin,10,0,0,0,0,0,12,3,7,11,0,11,14,2,39,9,2,0,0,50,11,1,2,0,18,0,1,64,135.0,$115 pagos | $20.00 Vilma,128.75,0.0,0.0,0
+24/01/2026,Saturday,Vilma Luna,Parque San Martin,12,0,0,0,0,24,12,5,0,0,0,4,8,2,44,13,2,0,0,77,10,6,2,0,11,0,0,95,120.0,$46.00 pan | $39 bebidas y lays | $25.00 bebidas | $10.00 Vilma m,129.65,0.0,0.0,0
+26/01/2026,Monday,Vilma Luna,Parque San Martin,8,0,8,0,0,24,0,2,7,4,0,4,7,2,44,10,2,0,0,80,12,0,2,0,17,0,0,94,185.0,$15.00 Javier | $100 fosofamilia | $30 mercado | $10.00 salario Vilma | $30.00 abono deuda Vilma,85.25,0.0,0.0,0
+27/01/2026,Tuesday,Vilma Luna,Parque San Martin,10,0,9,8,0,0,0,3,12,4,0,9,19,2,52,3,2,0,0,46,7,0,2,1,11,1,0,56,10.0,$10.00 Vilma,144.85,0.0,0.0,0
+28/01/2026,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,3,8,8,0,7,7,2,34,0,2,0,0,30,11,0,0,1,17,0,0,42,32.4,$20.00 mercado | $12.15 gas licuado. | $0.25 Javier,145.7,0.0,0.0,0
+30/01/2026,Friday,Vilma Luna,Parque San Martin,0,0,8,0,0,24,12,5,4,4,0,12,3,2,47,10,1,0,0,33,5,0,0,0,0,0,1,38,85.0,$70.00 acceso | $15.00 Vilma,97.25,0.0,0.0,0
+30/01/2026,Friday,Vilma Luna,Parque San Martin,10,0,0,0,0,36,0,2,7,2,0,6,14,2,52,0,4,0,0,65,5,0,3,0,0,0,0,73,162.25,$2.25 Javier | $125 pagos | $25 sodas | $10 Vilma,95.2,0.0,0.0,0
+31/01/2026,Saturday,Vilma Luna,Parque San Martin,12,0,12,0,0,48,0,2,6,2,0,9,3,2,61,6,3,0,0,118,16,0,3,0,28,0,1,137,285.0,$1.75 polipel | $142.25 compras | $140.00 Vilma | $1.00 Javier,96.0,0.0,0.0,0
+02/02/2026,Monday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,0,8,0,5,3,2,47,0,3,0,0,42,13,0,4,0,9,0,0,61,1.0,$1.00 Javier,207.25,0.0,0.0,0
+02/02/2026,Monday,Vilma Luna,Parque San Martin,0,0,8,9,0,12,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20.7,$6.00 lays | $0.70 de bolsa mini | $14 mayonesa,0,0.0,0.0,0
+02/02/2026,Monday,Vilma Luna,Parque San Martin,10,10,8,9,0,36,12,18,8,7,0,0,5,0,62,9,3,0,0,90,18,0,2,1,14,0,0,111,52.7,$6.00 lays | $0.70 de bolsa mini | $14 mayonesa | $22.00 compras | $10.00 Vilma,262.25,0.0,0.0,0
+03/02/2026,Tuesday,Vilma Luna,Parque San Martin,10,0,8,0,0,0,0,1,12,4,0,9,0,0,50,9,1,0,0,52,8,0,0,0,10,0,2,60,111.35,$25.00 pan | $46 Javier | $5.00 desechables | $0.70 desechables | $12.15 gas | $12.50 de cheddar,113.4,0.0,0.0,0
+04/02/2026,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,1,7,7,0,5,7,0,39,7,1,0,0,38,7,0,0,0,8,2,0,45,13.7,$3.70 desechables | $10.00 Vilma,247.65,0.0,0.0,0
+05/02/2026,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,3,0,0,6,0,0,25,4,1,0,0,35,9,0,1,0,9,2,0,47,62.15,$40 de acceso | $12.15 de gas | $10.00 Vilma,127.6,0.0,0.0,0
+06/02/2026,Friday,Vilma Luna,Parque San Martin,10,0,5,0,0,24,12,0,6,9,0,6,5,0,31,11,0,0,0,51,8,0,0,4,11,1,0,63,149.31,$45.00 Acceso | $3.50 Javier | $8.00 dolar city | $23.00 pan | $3.00 mercado | $16.31 compras,70.6,0.0,0.0,0
+07/02/2026,Saturday,Vilma Luna,Parque San Martin,12,0,10,0,0,68,12,0,8,10,0,9,1,0,69,15,1,0,0,78,21,0,5,0,19,1,0,104,113.5,"$1.50 desechables | $102 pan, sodas, lays, desechables y pizza | $10.00 Vilma",281.0,0.0,0.0,0
+09/02/2026,Monday,Vilma Luna,Parque San Martin,3,0,0,0,0,0,0,5,7,8,3,2,3,5,36,7,5,0,0,77,14,0,4,2,21,0,0,97,500.25,$12.15 gas | $10.00 Vilma | $215.00 | $15.00 | $7.00 | $0.10,0,0.0,0.0,0
+10/02/2026,Tuesday,Vilma Luna,Parque San Martin,3,0,0,0,0,0,0,5,7,8,3,2,3,5,36,7,5,0,0,77,14,0,4,2,21,0,0,97,460.25,$12.15 gas | $10.00 Vilma | $195.00 | $15.00 | $7.00 | $0.10,0,0.0,0.0,0
+10/02/2026,Tuesday,Vilma Luna,Parque San Martin,10,0,8,0,0,0,0,1,13,5,3,7,0,5,22,6,5,0,0,35,4,0,1,0,7,0,0,40,30.0,$20.00 Javier | $10.00 Vilma,154.0,0.0,0.0,0
+11/02/2026,Wednesday,Vilma Luna,Parque San Martin,0,0,8,0,0,48,0,2,6,4,3,9,10,5,47,1,0,0,0,61,7,0,2,0,13,1,0,70,50.0,$40.00 sodas | $10.00 Vilma,197.5,0.0,0.0,0
+13/02/2026,Friday,Vilma Luna,Parque San Martin,10,0,0,0,0,0,12,5,9,9,3,4,11,5,26,7,4,0,0,59,6,0,2,0,13,0,0,67,70.0,$60.00 acceso | $10.00 Vilma,163.75,0.0,0.0,0
+13/02/2026,Friday,Vilma Luna,Parque San Martin,10,0,4,0,0,24,0,4,5,6,3,5,8,5,36,4,4,0,0,24,13,0,1,0,8,0,0,40,50.0,$20.00 acceso | $20.00 sodas | $10.00 Vilma,134.95,0.0,0.0,0
+14/02/2026,Saturday,Vilma Luna,Parque San Martin,10,0,7,0,0,50,12,1,4,5,3,4,4,5,41,5,4,0,0,74,24,0,5,2,29,0,0,105,68.15,$5.00 desechables | $40.00 sodas y pizza | $12.15 gas | $10.00 Vilma | $1.00 Javier,284.5,0.0,0.0,0
+15/02/2026,Sunday,Vilma Luna,Parque San Martin,15,0,8,0,0,0,0,5,13,2,3,7,11,5,21,2,4,0,0,55,4,0,2,1,12,0,0,62,10.0,$10.00 Vilma,162.5,42.5,0.0,1
+16/02/2026,Monday,Vilma Luna,Parque San Martin,0,0,5,0,0,72,24,2,4,4,3,5,17,5,49,12,3,0,0,70,14,0,9,0,18,0,1,93,58.95,$3.95 desechables | $45 sodas y pan | $10.00 Vilma,218.6,0.0,0.0,0
+17/02/2026,Tuesday,Vilma Luna,Parque San Martin,8,0,8,0,0,0,0,5,6,1,3,9,5,5,26,8,3,0,0,49,8,0,2,0,17,0,0,59,150.0,$140.00 quincena Vilma | $10.00 salario diario Vilma,11.6,0.0,0.0,0
+18/02/2026,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,2,0,3,6,4,5,19,7,2,0,0,44,4,0,1,0,7,0,0,49,43.4,$12.15 gas | $20 mercado | $1.25 ketchup | $10.00 Vilma,71.6,0.0,0.0,0
+19/02/2026,Thursday,Vilma Luna,Parque San Martin,10,0,8,0,0,24,12,3,7,8,3,11,0,5,24,13,2,0,0,32,5,0,5,0,13,0,0,42,73.0,"$23.00 pan | $40.00 soda, lays y aderezo. | $10.00 Vilma",49.5,0.0,0.0,0
+20/02/2026,Friday,Vilma Luna,Parque San Martin,8,0,0,0,0,24,0,11,10,5,2,6,14,5,34,6,2,0,0,45,7,0,2,1,10,3,0,55,90.85,$20.00 pan | $45.00 acceso | $2.00 aceite | $13.85 sodas | $10.00 Vilma,108.65,0.0,0.0,0
+22/02/2026,Sunday,Vilma Luna,Parque San Martin,10,0,9,0,0,48,12,1,5,0,2,11,13,5,65,11,2,0,0,51,6,0,4,0,13,3,0,61,78.7,$10.00 desechables | $20.00 pan | $25 sodas | $13.70  Javier | $10.00 Vilma,138.9,0.0,0.0,0
+22/02/2026,Sunday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,4,1,8,2,9,5,5,60,9,2,0,0,27,10,0,0,0,5,0,0,37,0.0,$0.00 de todo,149.0,0.0,0.0,0
+23/02/2026,Monday,Vilma Luna,Parque San Martin,10,0,0,0,0,0,0,2,4,8,2,4,0,5,24,1,2,0,0,52,12,0,6,2,20,0,0,72,65.15,$3.15 de ketchup | $52.00 de acceso | $10 de Vilma,173.75,0.0,0.0,0
+25/02/2026,Wednesday,Vilma Luna,Parque San Martin,8,0,10,0,0,0,0,2,9,5,0,11,9,5,14,0,2,0,0,23,4,0,1,0,6,0,0,28,24.25,$12.25 gas licuado | $2.00 desechables | $10.00 Vilma,77.5,0.0,0.0,0
+25/02/2026,Wednesday,Vilma Luna,Parque San Martin,0,0,0,0,0,16,0,2,4,8,2,8,0,5,17,0,2,0,0,41,7,0,0,0,13,0,0,48,10.0,$10.00 Vilma,148.25,0.0,0.0,0
+26/02/2026,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,0,3,0,4,10,5,3,0,2,0,0,42,0,0,0,0,12,0,0,42,63.15,$10.00 Vilma | $3.15 de ketchup | $50.00 de acceso,118.0,0.0,0.0,0
+28/02/2026,Saturday,Vilma Luna,Parque San Martin,10,6,7,8,0,36,0,5,7,4,0,9,9,5,29,0,2,0,0,30,0,0,0,0,7,0,0,30,58.85,$10.00 Vilma | $13.85 de sodas | $11.00 compras | $24 Bryan,62.8,0.0,0.0,0
+28/02/2026,Saturday,Vilma Luna,Parque San Martin,8,0,0,0,0,52,12,0,6,3,0,2,12,5,56,10,2,0,0,80,10,0,2,0,16,0,0,92,70.0,"$35 sodas, lays y desechables | $20.00 pan | $5.00 Javier | $10.00 Vilma",150.1,38.35,88.0,1
+01/03/2026,Sunday,Vilma Luna,Parque San Martin,8,0,0,20,0,0,12,3,10,7,0,0,20,5,39,12,2,0,0,20,13,0,6,0,5,0,0,39,0.0,$0.00,125.6,43.5,0.0,1
+02/03/2026,Monday,Vilma Luna,Parque San Martin,8,0,7,1,0,48,18,3,7,7,0,2,9,5,40,14,2,0,0,64,15,0,8,0,22,0,0,89,85.0,$20.00 salchichas | $30.00 sodas | $10.00 lays | $10 desechables | $5.00 Javier | $10.00 Vilma,217.35,12.6,0.0,1
+04/03/2026,Wednesday,Vilma Luna,Parque San Martin,0,0,5,3,0,24,0,5,0,9,0,2,10,5,41,12,2,0,0,58,6,0,1,0,15,0,0,67,117.4,$30.00 pan y sodas | $1.76 polipel | $15.64 selectos | $10.00 Vilma | $60.00 Pagó préstamo Vilma,60.51,22.1,0.0,1
+04/03/2026,Wednesday,Vilma Luna,Parque San Martin,12,0,5,0,0,0,0,7,9,2,0,7,15,5,28,9,2,0,0,26,2,0,2,0,7,0,0,30,46.5,$24 salchicha | $12.50 queso | $10.00 Vilma,47.15,27.15,20.0,1
+06/03/2026,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,0,0,2,6,2,0,5,3,5,21,9,0,0,0,23,2,0,1,0,5,0,2,26,50.9,$50.00 de acceso | $0.90 de servilletas,44.75,1.75,40.0,1
+06/03/2026,Friday,Vilma Luna,Parque San Martin,0,0,0,0,0,24,0,3,1,4,0,1,9,5,24,6,0,0,0,41,3,0,2,0,15,0,0,46,50.0,$24.00 de jumbo | $12.15 de gas | $13.85 de sodas,54.65,16.9,35.0,1
+07/03/2026,Saturday,Vilma Luna,Parque San Martin,14,0,12,8,0,45,0,2,7,2,0,8,0,5,42,2,0,0,0,67,6,0,2,0,18,0,0,75,106.85,$8.85 desechables | $26.30 sodas | $18.40 pan | $16 salchicha | $7.30 ketchup | $30.00 Vilma,89.5,18.0,70.0,1
+09/03/2026,Monday,Vilma Luna,Parque San Martin,11,0,0,0,0,24,12,3,8,2,0,0,8,5,23,10,0,0,0,76,12,0,0,0,26,0,0,88,66.95,$21.95 pan y soda | $35.00 Acceso | $10.00 Vilma,177.05,45.0,0.0,1
+10/03/2026,Tuesday,Vilma Luna,Parque San Martin,6,0,4,15,0,0,0,2,3,10,0,2,3,5,8,6,0,0,0,29,0,0,3,0,11,1,0,32,10.0,$10.00 Vilma,134.4,14.4,0.0,1
+11/03/2026,Wednesday,Vilma Luna,Parque San Martin,6,0,5,0,0,24,0,2,6,8,0,4,13,5,20,4,0,0,0,28,6,0,2,0,7,0,0,36,56.46,$12.15 gas | $1.75 de polipel | $30.96 de sodas y salchicha | $11.60 valvula gas,26.65,26.65,0.0,1
+12/03/2026,Thursday,Vilma Luna,Parque San Martin,0,0,0,0,0,48,12,2,0,0,0,1,11,5,55,12,0,0,0,24,8,0,1,0,7,1,3,35,101.8,$50.00 Acceso | $30.00 sodas lays | $1.80 de mayonesa | $20 de Vilma,26.35,0.0,0.0,1
+13/03/2026,Friday,Vilma Luna,Parque San Martin,14,0,5,1,0,0,0,2,11,4,0,2,9,5,38,10,1,0,0,43,3,0,1,0,12,1,0,47,60.0,$30.00 acceso | $15.00 pan | $5.00 desechables | $10.00 Vilma,71.65,24.15,45.0,1
+14/03/2026,Saturday,Vilma Luna,Parque San Martin,10,0,15,11,0,72,24,5,1,8,0,4,0,5,26,3,0,0,0,160,0,0,28,0,45,0,1,188,211.27,$3.00 Javier | $0.70 desechables | $30 salchicha | $30 sodas | $15.25 desechables | $100 la unión,252.88,43.35,203.03,1
+16/03/2026,Monday,Vilma Luna,Parque San Martin,15,0,4,0,0,24,12,3,6,9,0,0,12,5,14,11,0,0,0,71,15,0,3,0,26,1,0,89,112.1,$4.06 selectos | $4.04 despensa | $6.65 milagro | $2.35 súper | $75.00 pagos | $20.00 Vilma,151.49,16.4,135.09,1
+17/03/2026,Tuesday,Vilma Luna,Parque San Martin,0,0,7,8,0,0,0,2,2,11,0,5,6,5,3,10,0,0,0,33,3,0,1,0,9,1,0,37,10.0,$10.00 Vilma,87.85,12.85,75.0,1
+18/03/2026,Wednesday,Vilma Luna,Parque San Martin,12,0,10,0,0,24,0,5,10,6,0,12,2,5,14,9,0,0,0,30,12,0,1,1,8,0,0,44,35.3,$10.00 salchicha | $15.30 gaseosas | $10.00 Vilma,73.2,33.2,40.0,1
